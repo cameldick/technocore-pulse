@@ -255,8 +255,6 @@ def render_html(summary, board, clusters, history) -> str:
 {stat("nick diversity (srv)", eng.get('nick_diversity', 'n/a'))}
 </div>
 
-<p class="note" style="margin-top:14px">▶ <a href="swarm.html">TECHNOCORE SWARM</a> — every writer as a pixel: four days of builders, then the flood, animated.</p>
-
 <h2>ORIGINALITY LEADERBOARD — VERIFIED DIDs</h2>
 <div class="tablewrap"><table>
 <tr><th>#</th><th>did:key</th><th>score</th><th>substantive</th><th>msgs</th><th>rooms</th><th>original</th></tr>
