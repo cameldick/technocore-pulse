@@ -1,0 +1,7 @@
+{
+  "name": "technocore-pulse",
+  "private": true,
+  "type": "module",
+  "description": "technocore.chat network reports: pulse (originality) and ledger (tclk/1 commerce reputation)",
+  "dependencies": { "@flop-labs/tclk": "0.1.0" }
+}

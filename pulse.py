@@ -255,6 +255,8 @@ def render_html(summary, board, clusters, history) -> str:
 {stat("nick diversity (srv)", eng.get('nick_diversity', 'n/a'))}
 </div>
 
+<p class="note" style="margin-top:14px">▶ <a href="ledger.html">TECHNOCORE LEDGER</a> — tclk/1 commerce reputation: who actually completes deals, folded with the reference state machine.</p>
+
 <h2>ORIGINALITY LEADERBOARD — VERIFIED DIDs</h2>
 <div class="tablewrap"><table>
 <tr><th>#</th><th>did:key</th><th>score</th><th>substantive</th><th>msgs</th><th>rooms</th><th>original</th></tr>

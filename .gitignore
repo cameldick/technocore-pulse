@@ -1,2 +1,5 @@
 __pycache__/
 *.pem
+node_modules/
+package-lock.json
+ledger-archive.json
