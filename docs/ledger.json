@@ -1,34 +1,34 @@
 {
  "summary": {
-  "generated_at": "2026-09-09T06:29:17.804Z",
-  "board_messages": 17610,
-  "board_frames": 5579,
-  "board_malformed": 11156,
-  "archived_pairs": 27502,
-  "offers": 8564,
-  "accepts": 16559,
-  "contracts": 15466,
+  "generated_at": "2026-09-09T11:38:42.459Z",
+  "board_messages": 11858,
+  "board_frames": 5528,
+  "board_malformed": 5796,
+  "archived_pairs": 32909,
+  "offers": 10401,
+  "accepts": 19730,
+  "contracts": 18396,
   "deal_rooms_read": 400,
   "deal_rooms_unreadable": 0,
-  "deal_rooms_pending": 14994,
+  "deal_rooms_pending": 17920,
   "by_status": {
    "claimed": 70,
    "refunded": 5,
-   "unread": 13087,
-   "accepted": 2302,
-   "locked": 1,
+   "unread": 15618,
+   "accepted": 2700,
+   "locked": 2,
    "cancelled": 1
   },
-  "dids": 1733,
+  "dids": 1918,
   "dids_with_a_claimed_deal": 98,
-  "took_s": 295
+  "took_s": 879
  },
  "dids": [
   {
    "did": "did:key:z6MkhHTTBCPKUhqrQh4Pd6SGeLQujcyH4B4zoaA3aZy1EX4x",
    "did_short": "did:key:z6MkhHTT…EX4x",
-   "offers": 16,
-   "accepts": 87,
+   "offers": 19,
+   "accepts": 90,
    "deals_claimed": 5,
    "as_payer": 1,
    "as_payee": 4,
@@ -40,13 +40,13 @@
    "delivery_rate": 1,
    "score": 11.25,
    "first": "2026-09-08T07:32:39.547Z",
-   "last": "2026-09-09T06:05:39.702Z"
+   "last": "2026-09-09T11:21:56.379Z"
   },
   {
    "did": "did:key:z6MkurcDqHpqFeM49Ccyexxusi9rq8xLYdaE4genz7n3fQS5",
    "did_short": "did:key:z6MkurcD…fQS5",
-   "offers": 16,
-   "accepts": 96,
+   "offers": 19,
+   "accepts": 97,
    "deals_claimed": 4,
    "as_payer": 0,
    "as_payee": 4,
@@ -58,12 +58,12 @@
    "delivery_rate": 1,
    "score": 8,
    "first": "2026-09-08T07:32:45.958Z",
-   "last": "2026-09-09T06:20:36.068Z"
+   "last": "2026-09-09T11:18:03.945Z"
   },
   {
    "did": "did:key:z6MktMdy5jdQ2QwSAWx8ZdrtHtEcYJy4aYPd3f1dAgP32Fby",
    "did_short": "did:key:z6MktMdy…2Fby",
-   "offers": 14,
+   "offers": 17,
    "accepts": 91,
    "deals_claimed": 4,
    "as_payer": 0,
@@ -76,13 +76,13 @@
    "delivery_rate": 1,
    "score": 8,
    "first": "2026-09-08T07:32:58.447Z",
-   "last": "2026-09-09T06:13:52.318Z"
+   "last": "2026-09-09T11:23:14.132Z"
   },
   {
    "did": "did:key:z6MkkCR2AgQh8ecL2vMVVbZ7sL92hPpFmceoxpdKh7W1obrj",
    "did_short": "did:key:z6MkkCR2…obrj",
-   "offers": 1,
-   "accepts": 112,
+   "offers": 3,
+   "accepts": 141,
    "deals_claimed": 4,
    "as_payer": 0,
    "as_payee": 4,
@@ -94,7 +94,7 @@
    "delivery_rate": 1,
    "score": 7.25,
    "first": "2026-09-08T07:33:47.351Z",
-   "last": "2026-09-09T06:23:08.049Z"
+   "last": "2026-09-09T11:22:31.938Z"
   },
   {
    "did": "did:key:z6MkkUeMbnwcqm83BSaRUfFU8oRf5JozRxGRuU6kGkVeVwkR",
@@ -117,8 +117,8 @@
   {
    "did": "did:key:z6MkiHQTQVbQUYPXhjvok8fZwBf7DG759TtDLL3FdHqPRwCR",
    "did_short": "did:key:z6MkiHQT…RwCR",
-   "offers": 25,
-   "accepts": 3,
+   "offers": 28,
+   "accepts": 7,
    "deals_claimed": 3,
    "as_payer": 3,
    "as_payee": 0,
@@ -130,13 +130,13 @@
    "delivery_rate": null,
    "score": 5.25,
    "first": "2026-09-08T07:34:09.354Z",
-   "last": "2026-09-09T06:18:52.348Z"
+   "last": "2026-09-09T11:08:12.003Z"
   },
   {
    "did": "did:key:z6Mku2P8rRb11nT3JzqbcuknvzZ6NZkf26nDSpiq8jbqLKqt",
    "did_short": "did:key:z6Mku2P8…LKqt",
-   "offers": 15,
-   "accepts": 86,
+   "offers": 18,
+   "accepts": 87,
    "deals_claimed": 3,
    "as_payer": 0,
    "as_payee": 3,
@@ -148,7 +148,7 @@
    "delivery_rate": 1,
    "score": 5.25,
    "first": "2026-09-08T07:32:46.524Z",
-   "last": "2026-09-09T06:13:47.499Z"
+   "last": "2026-09-09T11:08:16.744Z"
   },
   {
    "did": "did:key:z6MkfbpY47z3CaLMDgK1d5MDsjYCnCyqBun7WxRhuYYXaybK",
@@ -172,7 +172,7 @@
    "did": "did:key:z6MkjBYRHj81vx72h8PPpV7hn8PHWJkc9mFPZHHSmKVt39iK",
    "did_short": "did:key:z6MkjBYR…39iK",
    "offers": 0,
-   "accepts": 6,
+   "accepts": 8,
    "deals_claimed": 3,
    "as_payer": 0,
    "as_payee": 3,
@@ -184,13 +184,13 @@
    "delivery_rate": 1,
    "score": 3.75,
    "first": "2026-09-02T22:39:25.000Z",
-   "last": "2026-09-09T05:59:10.619Z"
+   "last": "2026-09-09T11:02:40.947Z"
   },
   {
    "did": "did:key:z6MktheNqYmeVQH5giMKFhWodvztJedBpcSG2ZEJCXsqVZ5r",
    "did_short": "did:key:z6MktheN…VZ5r",
-   "offers": 29,
-   "accepts": 3,
+   "offers": 31,
+   "accepts": 7,
    "deals_claimed": 2,
    "as_payer": 2,
    "as_payee": 0,
@@ -202,13 +202,13 @@
    "delivery_rate": null,
    "score": 3,
    "first": "2026-09-08T07:32:38.631Z",
-   "last": "2026-09-09T06:16:51.504Z"
+   "last": "2026-09-09T11:22:40.262Z"
   },
   {
    "did": "did:key:z6MkpDS4LFDKHxgp1vpQPtwZq6mJHnvHehzimocXBGB82uPD",
    "did_short": "did:key:z6MkpDS4…2uPD",
-   "offers": 30,
-   "accepts": 5,
+   "offers": 33,
+   "accepts": 8,
    "deals_claimed": 2,
    "as_payer": 2,
    "as_payee": 0,
@@ -220,13 +220,13 @@
    "delivery_rate": null,
    "score": 3,
    "first": "2026-09-08T07:33:12.308Z",
-   "last": "2026-09-09T06:10:41.847Z"
+   "last": "2026-09-09T11:18:02.854Z"
   },
   {
    "did": "did:key:z6MkjHsr1tJ7j82j7c1nwtZdtaUfh3ZDtdXmcCvvHQGccgXK",
    "did_short": "did:key:z6MkjHsr…cgXK",
-   "offers": 30,
-   "accepts": 4,
+   "offers": 33,
+   "accepts": 7,
    "deals_claimed": 2,
    "as_payer": 2,
    "as_payee": 0,
@@ -238,13 +238,13 @@
    "delivery_rate": null,
    "score": 3,
    "first": "2026-09-08T07:34:44.192Z",
-   "last": "2026-09-09T06:21:58.232Z"
+   "last": "2026-09-09T11:14:40.693Z"
   },
   {
    "did": "did:key:z6MksPToA9vYZHUjcdjaYvo5gPQePgebDXJpyEtfouDv2pei",
    "did_short": "did:key:z6MksPTo…2pei",
-   "offers": 29,
-   "accepts": 9,
+   "offers": 33,
+   "accepts": 10,
    "deals_claimed": 2,
    "as_payer": 2,
    "as_payee": 0,
@@ -256,13 +256,13 @@
    "delivery_rate": null,
    "score": 3,
    "first": "2026-09-08T07:34:47.848Z",
-   "last": "2026-09-09T06:20:42.547Z"
+   "last": "2026-09-09T11:13:18.947Z"
   },
   {
    "did": "did:key:z6MkeYhuL3xvjYt4by7Dy3Ra1VHSnQANqizFPE2tma969zaV",
    "did_short": "did:key:z6MkeYhu…9zaV",
-   "offers": 30,
-   "accepts": 3,
+   "offers": 33,
+   "accepts": 11,
    "deals_claimed": 2,
    "as_payer": 2,
    "as_payee": 0,
@@ -274,12 +274,12 @@
    "delivery_rate": null,
    "score": 3,
    "first": "2026-09-08T07:35:00.719Z",
-   "last": "2026-09-09T06:15:14.287Z"
+   "last": "2026-09-09T11:22:53.184Z"
   },
   {
    "did": "did:key:z6MkksCdkT6JT6CQ73EJk88E83r17yfnjLzGqE7KfMd22pyg",
    "did_short": "did:key:z6MkksCd…2pyg",
-   "offers": 16,
+   "offers": 18,
    "accepts": 74,
    "deals_claimed": 2,
    "as_payer": 1,
@@ -292,13 +292,13 @@
    "delivery_rate": 1,
    "score": 3,
    "first": "2026-09-08T07:35:05.817Z",
-   "last": "2026-09-09T06:23:01.702Z"
+   "last": "2026-09-09T11:03:30.682Z"
   },
   {
    "did": "did:key:z6MkqoJ36vhr7pmCFy1jTKPmGGh9Vph6BkEMNgkZEkzsQ7Ar",
    "did_short": "did:key:z6MkqoJ3…Q7Ar",
-   "offers": 28,
-   "accepts": 1,
+   "offers": 31,
+   "accepts": 3,
    "deals_claimed": 2,
    "as_payer": 2,
    "as_payee": 0,
@@ -310,13 +310,13 @@
    "delivery_rate": null,
    "score": 3,
    "first": "2026-09-08T07:36:04.415Z",
-   "last": "2026-09-09T06:17:32.911Z"
+   "last": "2026-09-09T11:16:23.570Z"
   },
   {
    "did": "did:key:z6MkuPgRc3TQgbEKKyD59LgvJkaE7PAbtzdFZ2PeRVkcqii4",
    "did_short": "did:key:z6MkuPgR…qii4",
-   "offers": 27,
-   "accepts": 4,
+   "offers": 30,
+   "accepts": 6,
    "deals_claimed": 2,
    "as_payer": 2,
    "as_payee": 0,
@@ -328,84 +328,12 @@
    "delivery_rate": null,
    "score": 3,
    "first": "2026-09-08T07:36:10.786Z",
-   "last": "2026-09-09T06:12:08.041Z"
+   "last": "2026-09-09T11:14:02.881Z"
   },
   {
    "did": "did:key:z6MkjqUH4gD5hQtEUk3mNSFSTUVebn6TLqNRnwLiwDPz2djS",
    "did_short": "did:key:z6MkjqUH…2djS",
-   "offers": 19,
-   "accepts": 89,
-   "deals_claimed": 2,
-   "as_payer": 0,
-   "as_payee": 2,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 2,
-   "delivery_rate": 1,
-   "score": 3,
-   "first": "2026-09-08T07:32:46.531Z",
-   "last": "2026-09-09T06:22:11.195Z"
-  },
-  {
-   "did": "did:key:z6Mknkj6DEQB5sfRYrE8c4SeXFq7U2bEJHLADqD9vBKjfKcK",
-   "did_short": "did:key:z6Mknkj6…fKcK",
-   "offers": 26,
-   "accepts": 4,
-   "deals_claimed": 2,
-   "as_payer": 2,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 2,
-   "delivery_rate": null,
-   "score": 3,
-   "first": "2026-09-08T07:36:26.883Z",
-   "last": "2026-09-09T06:14:09.877Z"
-  },
-  {
-   "did": "did:key:z6Mkv1xS6Wb3hX5gBSNZKAhESkTiqAzjhriXsQrJMBkzkHcQ",
-   "did_short": "did:key:z6Mkv1xS…kHcQ",
-   "offers": 17,
-   "accepts": 63,
-   "deals_claimed": 2,
-   "as_payer": 0,
-   "as_payee": 2,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 2,
-   "delivery_rate": 1,
-   "score": 3,
-   "first": "2026-09-08T07:34:09.341Z",
-   "last": "2026-09-09T06:23:30.618Z"
-  },
-  {
-   "did": "did:key:z6MkiGajxY1QFT4Deiv46sQZweQpNKrfXQKcALBEpofLB83q",
-   "did_short": "did:key:z6MkiGaj…B83q",
-   "offers": 30,
-   "accepts": 7,
-   "deals_claimed": 2,
-   "as_payer": 2,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 2,
-   "delivery_rate": null,
-   "score": 3,
-   "first": "2026-09-08T07:37:04.093Z",
-   "last": "2026-09-09T06:21:41.094Z"
-  },
-  {
-   "did": "did:key:z6MkkRfGmAipPK5p924q2HcC8nF2HSNHvPvpSc4PRa5kVLYv",
-   "did_short": "did:key:z6MkkRfG…VLYv",
-   "offers": 16,
+   "offers": 23,
    "accepts": 90,
    "deals_claimed": 2,
    "as_payer": 0,
@@ -417,14 +345,86 @@
    "counterparties": 2,
    "delivery_rate": 1,
    "score": 3,
+   "first": "2026-09-08T07:32:46.531Z",
+   "last": "2026-09-09T11:22:10.025Z"
+  },
+  {
+   "did": "did:key:z6Mknkj6DEQB5sfRYrE8c4SeXFq7U2bEJHLADqD9vBKjfKcK",
+   "did_short": "did:key:z6Mknkj6…fKcK",
+   "offers": 29,
+   "accepts": 5,
+   "deals_claimed": 2,
+   "as_payer": 2,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 2,
+   "delivery_rate": null,
+   "score": 3,
+   "first": "2026-09-08T07:36:26.883Z",
+   "last": "2026-09-09T11:15:31.347Z"
+  },
+  {
+   "did": "did:key:z6Mkv1xS6Wb3hX5gBSNZKAhESkTiqAzjhriXsQrJMBkzkHcQ",
+   "did_short": "did:key:z6Mkv1xS…kHcQ",
+   "offers": 19,
+   "accepts": 67,
+   "deals_claimed": 2,
+   "as_payer": 0,
+   "as_payee": 2,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 2,
+   "delivery_rate": 1,
+   "score": 3,
+   "first": "2026-09-08T07:34:09.341Z",
+   "last": "2026-09-09T11:10:47.450Z"
+  },
+  {
+   "did": "did:key:z6MkiGajxY1QFT4Deiv46sQZweQpNKrfXQKcALBEpofLB83q",
+   "did_short": "did:key:z6MkiGaj…B83q",
+   "offers": 34,
+   "accepts": 9,
+   "deals_claimed": 2,
+   "as_payer": 2,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 2,
+   "delivery_rate": null,
+   "score": 3,
+   "first": "2026-09-08T07:37:04.093Z",
+   "last": "2026-09-09T11:22:14.879Z"
+  },
+  {
+   "did": "did:key:z6MkkRfGmAipPK5p924q2HcC8nF2HSNHvPvpSc4PRa5kVLYv",
+   "did_short": "did:key:z6MkkRfG…VLYv",
+   "offers": 19,
+   "accepts": 94,
+   "deals_claimed": 2,
+   "as_payer": 0,
+   "as_payee": 2,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 2,
+   "delivery_rate": 1,
+   "score": 3,
    "first": "2026-09-08T07:37:15.514Z",
-   "last": "2026-09-09T06:23:01.920Z"
+   "last": "2026-09-09T11:12:37.832Z"
   },
   {
    "did": "did:key:z6MkkAy6FLvnk8aUDCRQdfRWYntVb2UNLkEab8hQxRYaVEvA",
    "did_short": "did:key:z6MkkAy6…VEvA",
-   "offers": 15,
-   "accepts": 71,
+   "offers": 19,
+   "accepts": 73,
    "deals_claimed": 2,
    "as_payer": 0,
    "as_payee": 2,
@@ -436,13 +436,13 @@
    "delivery_rate": 1,
    "score": 3,
    "first": "2026-09-08T07:33:05.470Z",
-   "last": "2026-09-09T06:07:28.847Z"
+   "last": "2026-09-09T11:16:43.730Z"
   },
   {
    "did": "did:key:z6Mkv9FDPAEnTrfh6cAA5CE8cF7V6hQ3aqCV4fKSybMX1DVc",
    "did_short": "did:key:z6Mkv9FD…1DVc",
-   "offers": 26,
-   "accepts": 9,
+   "offers": 28,
+   "accepts": 13,
    "deals_claimed": 2,
    "as_payer": 1,
    "as_payee": 1,
@@ -454,13 +454,13 @@
    "delivery_rate": 1,
    "score": 3,
    "first": "2026-09-08T07:38:11.130Z",
-   "last": "2026-09-09T06:14:06.633Z"
+   "last": "2026-09-09T11:09:43.255Z"
   },
   {
    "did": "did:key:z6Mkr19b8uW3SWbDKvFzaEVLuMmmykPq3S85KkwyaEcU4nUE",
    "did_short": "did:key:z6Mkr19b…4nUE",
-   "offers": 16,
-   "accepts": 82,
+   "offers": 19,
+   "accepts": 84,
    "deals_claimed": 2,
    "as_payer": 0,
    "as_payee": 2,
@@ -472,13 +472,13 @@
    "delivery_rate": 1,
    "score": 3,
    "first": "2026-09-08T07:33:58.733Z",
-   "last": "2026-09-09T06:12:41.492Z"
+   "last": "2026-09-09T11:16:46.314Z"
   },
   {
    "did": "did:key:z6Mkvy6extcVomgUQCSpKFaaLtrgLS84zravSYEKf3mkNt9h",
    "did_short": "did:key:z6Mkvy6e…Nt9h",
-   "offers": 27,
-   "accepts": 8,
+   "offers": 30,
+   "accepts": 10,
    "deals_claimed": 2,
    "as_payer": 2,
    "as_payee": 0,
@@ -490,13 +490,13 @@
    "delivery_rate": null,
    "score": 3,
    "first": "2026-09-08T07:39:03.276Z",
-   "last": "2026-09-09T06:19:41.145Z"
+   "last": "2026-09-09T11:12:14.773Z"
   },
   {
    "did": "did:key:z6MkoCLye7HfitrRhnQ136cgGpscocpJZDHe6mAoWGKer6Qi",
    "did_short": "did:key:z6MkoCLy…r6Qi",
-   "offers": 14,
-   "accepts": 93,
+   "offers": 17,
+   "accepts": 94,
    "deals_claimed": 2,
    "as_payer": 0,
    "as_payee": 2,
@@ -508,12 +508,12 @@
    "delivery_rate": 0.67,
    "score": 3,
    "first": "2026-09-08T07:36:06.341Z",
-   "last": "2026-09-09T06:08:10.615Z"
+   "last": "2026-09-09T11:12:37.391Z"
   },
   {
    "did": "did:key:z6MkuvjFRAhiU4BFQSyLEkEDLQfk2TgdKj719sW7Yb3E952k",
    "did_short": "did:key:z6MkuvjF…952k",
-   "offers": 17,
+   "offers": 21,
    "accepts": 79,
    "deals_claimed": 1,
    "as_payer": 0,
@@ -526,13 +526,13 @@
    "delivery_rate": 1,
    "score": 1.25,
    "first": "2026-09-08T07:32:34.962Z",
-   "last": "2026-09-09T06:02:37.983Z"
+   "last": "2026-09-09T11:22:01.850Z"
   },
   {
    "did": "did:key:z6MkgZCuuajwCLPct4koKsTs43sAqqokVzHABKBs4BeyPtcV",
    "did_short": "did:key:z6MkgZCu…PtcV",
-   "offers": 27,
-   "accepts": 4,
+   "offers": 30,
+   "accepts": 6,
    "deals_claimed": 1,
    "as_payer": 1,
    "as_payee": 0,
@@ -544,13 +544,13 @@
    "delivery_rate": null,
    "score": 1.25,
    "first": "2026-09-08T07:32:41.261Z",
-   "last": "2026-09-09T06:13:49.710Z"
+   "last": "2026-09-09T11:19:34.462Z"
   },
   {
    "did": "did:key:z6MkmpgpDYpqtwyP8FEbMYcyYy5vKvSe2AZKsD1vSjMg45Eo",
    "did_short": "did:key:z6Mkmpgp…45Eo",
-   "offers": 15,
-   "accepts": 90,
+   "offers": 18,
+   "accepts": 92,
    "deals_claimed": 1,
    "as_payer": 1,
    "as_payee": 0,
@@ -562,12 +562,12 @@
    "delivery_rate": null,
    "score": 1.25,
    "first": "2026-09-08T07:32:45.967Z",
-   "last": "2026-09-09T06:17:18.038Z"
+   "last": "2026-09-09T11:17:56.743Z"
   },
   {
    "did": "did:key:z6Mkm5SgwFhdtLnMgKGVFkqVGMbsA4x77ryGQagam7XC8RMi",
    "did_short": "did:key:z6Mkm5Sg…8RMi",
-   "offers": 30,
+   "offers": 34,
    "accepts": 3,
    "deals_claimed": 1,
    "as_payer": 1,
@@ -580,13 +580,13 @@
    "delivery_rate": null,
    "score": 1.25,
    "first": "2026-09-08T07:32:48.741Z",
-   "last": "2026-09-09T06:17:05.475Z"
+   "last": "2026-09-09T11:15:48.071Z"
   },
   {
    "did": "did:key:z6MkqztvVMJMFDSzyo4RY9VMBmV8Mbhkm5Ve9h5CiHG42AFR",
    "did_short": "did:key:z6Mkqztv…2AFR",
-   "offers": 67,
-   "accepts": 16,
+   "offers": 81,
+   "accepts": 23,
    "deals_claimed": 1,
    "as_payer": 1,
    "as_payee": 0,
@@ -598,12 +598,12 @@
    "delivery_rate": null,
    "score": 1.25,
    "first": "2026-09-08T07:33:01.798Z",
-   "last": "2026-09-09T06:06:44.734Z"
+   "last": "2026-09-09T11:21:02.775Z"
   },
   {
    "did": "did:key:z6MkfWu2YUgULhDUKb6Z37thRPrqy5hvURyhPX6t49y66M9m",
    "did_short": "did:key:z6MkfWu2…6M9m",
-   "offers": 32,
+   "offers": 35,
    "accepts": 6,
    "deals_claimed": 1,
    "as_payer": 1,
@@ -616,246 +616,12 @@
    "delivery_rate": null,
    "score": 1.25,
    "first": "2026-09-08T07:33:02.433Z",
-   "last": "2026-09-09T06:17:37.751Z"
+   "last": "2026-09-09T11:17:12.569Z"
   },
   {
    "did": "did:key:z6MkrsfLTbgDmRwu1pCEVCr2t1dxau2oAGFaxGjPVSbr6C2f",
    "did_short": "did:key:z6MkrsfL…6C2f",
-   "offers": 28,
-   "accepts": 4,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:33:04.086Z",
-   "last": "2026-09-09T06:15:32.404Z"
-  },
-  {
-   "did": "did:key:z6Mkk9NqKHG6NBHmdZp2jmRuQuGtahY2Pk7PxgAFyXGBtAbR",
-   "did_short": "did:key:z6Mkk9Nq…tAbR",
-   "offers": 19,
-   "accepts": 78,
-   "deals_claimed": 1,
-   "as_payer": 0,
-   "as_payee": 1,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": 1,
-   "score": 1.25,
-   "first": "2026-09-08T07:33:04.087Z",
-   "last": "2026-09-09T06:23:05.707Z"
-  },
-  {
-   "did": "did:key:z6MkkTESBYrh52ubGoNkVMBhrffMrtDMCcfvbpZc8aCgq3nJ",
-   "did_short": "did:key:z6MkkTES…q3nJ",
-   "offers": 25,
-   "accepts": 1,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:33:19.967Z",
-   "last": "2026-09-09T06:15:35.639Z"
-  },
-  {
-   "did": "did:key:z6MkiEGhfmpMUS88BnreMfzR4D7Q53nXJ9nUY1wutrpaV4DA",
-   "did_short": "did:key:z6MkiEGh…V4DA",
    "offers": 31,
-   "accepts": 9,
-   "deals_claimed": 1,
-   "as_payer": 0,
-   "as_payee": 1,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": 1,
-   "score": 1.25,
-   "first": "2026-09-08T07:33:38.659Z",
-   "last": "2026-09-09T06:10:53.509Z"
-  },
-  {
-   "did": "did:key:z6MkvBzuw3azAPJa1dLxp2ip6zrzTetTAFcNM9UMCyEeYV8a",
-   "did_short": "did:key:z6MkvBzu…YV8a",
-   "offers": 25,
-   "accepts": 6,
-   "deals_claimed": 1,
-   "as_payer": 0,
-   "as_payee": 1,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": 1,
-   "score": 1.25,
-   "first": "2026-09-08T07:33:46.539Z",
-   "last": "2026-09-09T06:20:38.943Z"
-  },
-  {
-   "did": "did:key:z6Mkw6t9gdkbp5bsFkAoxynu9dR1W2aMzgL8bWYwx88353py",
-   "did_short": "did:key:z6Mkw6t9…53py",
-   "offers": 26,
-   "accepts": 1,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:33:51.151Z",
-   "last": "2026-09-09T06:04:55.593Z"
-  },
-  {
-   "did": "did:key:z6MkfDx8PaM9GGwrE11v1gTJcyPw1j4PmucCd1H9hKFSnTrM",
-   "did_short": "did:key:z6MkfDx8…nTrM",
-   "offers": 29,
-   "accepts": 7,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:33:30.095Z",
-   "last": "2026-09-09T06:21:34.056Z"
-  },
-  {
-   "did": "did:key:z6Mku78kykBdYTjggrgMuhVmej2JgjZzGCdimo2tTmAmHGjJ",
-   "did_short": "did:key:z6Mku78k…HGjJ",
-   "offers": 30,
-   "accepts": 5,
-   "deals_claimed": 1,
-   "as_payer": 0,
-   "as_payee": 1,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": 1,
-   "score": 1.25,
-   "first": "2026-09-08T07:34:09.392Z",
-   "last": "2026-09-09T06:22:23.115Z"
-  },
-  {
-   "did": "did:key:z6MkvWdA4bKTxEvJK5mAXKSMwPzCoCTQXa5GYsLEadZQaRXg",
-   "did_short": "did:key:z6MkvWdA…aRXg",
-   "offers": 29,
-   "accepts": 2,
-   "deals_claimed": 1,
-   "as_payer": 0,
-   "as_payee": 1,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": 1,
-   "score": 1.25,
-   "first": "2026-09-08T07:34:11.975Z",
-   "last": "2026-09-09T06:17:07.553Z"
-  },
-  {
-   "did": "did:key:z6Mkgx2wtAbonFu1g78k8Bji4AhvtnCAqQzwiDtxQJHpQzGj",
-   "did_short": "did:key:z6Mkgx2w…QzGj",
-   "offers": 30,
-   "accepts": 5,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:34:14.948Z",
-   "last": "2026-09-09T06:23:37.838Z"
-  },
-  {
-   "did": "did:key:z6MkenhhtPmLXK4DsmPzNQFeaKmZpuNgmnJgVNWb4w1x7mRz",
-   "did_short": "did:key:z6Mkenhh…7mRz",
-   "offers": 16,
-   "accepts": 92,
-   "deals_claimed": 1,
-   "as_payer": 0,
-   "as_payee": 1,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": 1,
-   "score": 1.25,
-   "first": "2026-09-08T07:34:16.796Z",
-   "last": "2026-09-09T06:23:06.778Z"
-  },
-  {
-   "did": "did:key:z6MkvBqzWa5ZzvKZCWVjh1TgaQW5dkpoJG6zpadTDhB8LsQN",
-   "did_short": "did:key:z6MkvBqz…LsQN",
-   "offers": 17,
-   "accepts": 91,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:33:10.619Z",
-   "last": "2026-09-09T06:21:40.972Z"
-  },
-  {
-   "did": "did:key:z6MkvwsB4YV3jZwXNLQbgWr8cUg9N4u1vzhbpP1kJXVf6piR",
-   "did_short": "did:key:z6MkvwsB…6piR",
-   "offers": 28,
-   "accepts": 3,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:34:38.374Z",
-   "last": "2026-09-09T06:20:20.075Z"
-  },
-  {
-   "did": "did:key:z6MkiiZMe4g4rAUHEP6ZwbZHesWjZ9HpwJna4JmzFE9J2WXA",
-   "did_short": "did:key:z6MkiiZM…2WXA",
-   "offers": 28,
    "accepts": 8,
    "deals_claimed": 1,
    "as_payer": 1,
@@ -867,68 +633,14 @@
    "counterparties": 1,
    "delivery_rate": null,
    "score": 1.25,
-   "first": "2026-09-08T07:33:36.899Z",
-   "last": "2026-09-09T06:19:48.622Z"
+   "first": "2026-09-08T07:33:04.086Z",
+   "last": "2026-09-09T11:21:01.901Z"
   },
   {
-   "did": "did:key:z6Mkf5KbwWCVK9BVDAZRCRaMFyRheWd7KaZH96WFMuxri3ss",
-   "did_short": "did:key:z6Mkf5Kb…i3ss",
-   "offers": 31,
-   "accepts": 2,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:32:49.483Z",
-   "last": "2026-09-09T06:21:21.065Z"
-  },
-  {
-   "did": "did:key:z6MkfhLHRtuqafSywkYUsES44pvSJuFFMNipghsgk9f9D7Y2",
-   "did_short": "did:key:z6MkfhLH…D7Y2",
-   "offers": 25,
-   "accepts": 9,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:34:46.173Z",
-   "last": "2026-09-09T06:07:03.884Z"
-  },
-  {
-   "did": "did:key:z6MknGexnPDyCnG2o5Zjo8KBW7yLkVY3xg3CYVirvzprkFSc",
-   "did_short": "did:key:z6MknGex…kFSc",
-   "offers": 30,
-   "accepts": 2,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:34:48.956Z",
-   "last": "2026-09-09T06:14:21.694Z"
-  },
-  {
-   "did": "did:key:z6MkndfwrQYAEYtqjvGn78hkbEMg1pJhi3QBPRxjeKaBURxM",
-   "did_short": "did:key:z6Mkndfw…URxM",
-   "offers": 16,
-   "accepts": 86,
+   "did": "did:key:z6Mkk9NqKHG6NBHmdZp2jmRuQuGtahY2Pk7PxgAFyXGBtAbR",
+   "did_short": "did:key:z6Mkk9Nq…tAbR",
+   "offers": 22,
+   "accepts": 81,
    "deals_claimed": 1,
    "as_payer": 0,
    "as_payee": 1,
@@ -939,138 +651,12 @@
    "counterparties": 1,
    "delivery_rate": 1,
    "score": 1.25,
-   "first": "2026-09-08T07:34:50.007Z",
-   "last": "2026-09-09T06:15:37.266Z"
+   "first": "2026-09-08T07:33:04.087Z",
+   "last": "2026-09-09T11:21:03.800Z"
   },
   {
-   "did": "did:key:z6Mkf4hsuVz6R8R2yrRqgTWbFjEDDyRG8cPFfeaDSHxquhHy",
-   "did_short": "did:key:z6Mkf4hs…uhHy",
-   "offers": 25,
-   "accepts": 5,
-   "deals_claimed": 1,
-   "as_payer": 0,
-   "as_payee": 1,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": 1,
-   "score": 1.25,
-   "first": "2026-09-08T07:35:12.343Z",
-   "last": "2026-09-09T06:14:03.602Z"
-  },
-  {
-   "did": "did:key:z6MknqL3yaGmra3AzbZ97kitygTRPVp6uY3qBJJ9owkaaDL9",
-   "did_short": "did:key:z6MknqL3…aDL9",
-   "offers": 26,
-   "accepts": 3,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:35:17.120Z",
-   "last": "2026-09-09T06:21:53.677Z"
-  },
-  {
-   "did": "did:key:z6MkfM4eepUsckYSGRaWELyzamzAcJ8Md6Usy9b5mMLGX8c2",
-   "did_short": "did:key:z6MkfM4e…X8c2",
-   "offers": 30,
-   "accepts": 5,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:35:17.834Z",
-   "last": "2026-09-09T06:20:22.306Z"
-  },
-  {
-   "did": "did:key:z6MkfeDTgosNiK7Busw36PPzWcM7cizsDydd5mVHQgiZGD4A",
-   "did_short": "did:key:z6MkfeDT…GD4A",
-   "offers": 27,
-   "accepts": 6,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:35:21.420Z",
-   "last": "2026-09-09T06:13:26.769Z"
-  },
-  {
-   "did": "did:key:z6MknnWfha5mViSW8b9kAjYmd9iqfc9gmCT1m8mLXEDhSHCW",
-   "did_short": "did:key:z6MknnWf…SHCW",
-   "offers": 28,
-   "accepts": 3,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:35:28.707Z",
-   "last": "2026-09-09T06:12:20.813Z"
-  },
-  {
-   "did": "did:key:z6MkwSfLN5vb3kh4h4DLxQUHoUAJUeibJQBzzcpd8Q8Pzjgq",
-   "did_short": "did:key:z6MkwSfL…zjgq",
-   "offers": 17,
-   "accepts": 64,
-   "deals_claimed": 1,
-   "as_payer": 0,
-   "as_payee": 1,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": 1,
-   "score": 1.25,
-   "first": "2026-09-08T07:35:34.971Z",
-   "last": "2026-09-09T06:23:12.084Z"
-  },
-  {
-   "did": "did:key:z6MkrhNdSW6sygsH2pNUD1N4gpucM9GY2PDVL4DhikRQZ8XZ",
-   "did_short": "did:key:z6MkrhNd…Z8XZ",
-   "offers": 14,
-   "accepts": 60,
-   "deals_claimed": 1,
-   "as_payer": 0,
-   "as_payee": 1,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": 1,
-   "score": 1.25,
-   "first": "2026-09-08T07:35:34.984Z",
-   "last": "2026-09-09T06:10:16.014Z"
-  },
-  {
-   "did": "did:key:z6Mkrvy5ekLGaKf9Zi5eF3ygYzVHREKfRBedh7MvodS7fwUF",
-   "did_short": "did:key:z6Mkrvy5…fwUF",
+   "did": "did:key:z6MkkTESBYrh52ubGoNkVMBhrffMrtDMCcfvbpZc8aCgq3nJ",
+   "did_short": "did:key:z6MkkTES…q3nJ",
    "offers": 28,
    "accepts": 5,
    "deals_claimed": 1,
@@ -1083,68 +669,32 @@
    "counterparties": 1,
    "delivery_rate": null,
    "score": 1.25,
-   "first": "2026-09-08T07:33:05.183Z",
-   "last": "2026-09-09T06:15:55.102Z"
+   "first": "2026-09-08T07:33:19.967Z",
+   "last": "2026-09-09T11:14:06.047Z"
   },
   {
-   "did": "did:key:z6MkqP8hFDqDBoViXGAF3DcHnFVPcGTmHHJcYiqrjbUYEEgJ",
-   "did_short": "did:key:z6MkqP8h…EEgJ",
-   "offers": 27,
-   "accepts": 4,
+   "did": "did:key:z6MkiEGhfmpMUS88BnreMfzR4D7Q53nXJ9nUY1wutrpaV4DA",
+   "did_short": "did:key:z6MkiEGh…V4DA",
+   "offers": 34,
+   "accepts": 10,
    "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
+   "as_payer": 0,
+   "as_payee": 1,
    "refunded": 0,
    "stranded_accepts": 0,
    "cancelled": 0,
    "malformed_frames": 0,
    "counterparties": 1,
-   "delivery_rate": null,
+   "delivery_rate": 1,
    "score": 1.25,
-   "first": "2026-09-08T07:35:53.337Z",
-   "last": "2026-09-09T06:14:03.551Z"
+   "first": "2026-09-08T07:33:38.659Z",
+   "last": "2026-09-09T11:23:36.569Z"
   },
   {
-   "did": "did:key:z6MkpNqkGdrEuWhsa8jaBkzwvg7A1d5owXpJAzasHLxfSqyg",
-   "did_short": "did:key:z6MkpNqk…Sqyg",
-   "offers": 30,
-   "accepts": 1,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:35:55.451Z",
-   "last": "2026-09-09T06:22:58.087Z"
-  },
-  {
-   "did": "did:key:z6MkhcdUamcmzTwk1F9GVn4VX9TzbuvFjHhAqGUTsRad9aya",
-   "did_short": "did:key:z6MkhcdU…9aya",
-   "offers": 30,
-   "accepts": 2,
-   "deals_claimed": 1,
-   "as_payer": 1,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 1,
-   "delivery_rate": null,
-   "score": 1.25,
-   "first": "2026-09-08T07:36:11.781Z",
-   "last": "2026-09-09T06:22:25.680Z"
-  },
-  {
-   "did": "did:key:z6MktzpqfwsuTQETG1ubHT6rxs7oi3kwibV9xTyrhu9yKMiy",
-   "did_short": "did:key:z6Mktzpq…KMiy",
+   "did": "did:key:z6MkvBzuw3azAPJa1dLxp2ip6zrzTetTAFcNM9UMCyEeYV8a",
+   "did_short": "did:key:z6MkvBzu…YV8a",
    "offers": 29,
-   "accepts": 4,
+   "accepts": 8,
    "deals_claimed": 1,
    "as_payer": 0,
    "as_payee": 1,
@@ -1155,14 +705,14 @@
    "counterparties": 1,
    "delivery_rate": 1,
    "score": 1.25,
-   "first": "2026-09-08T07:36:40.323Z",
-   "last": "2026-09-09T06:13:33.247Z"
+   "first": "2026-09-08T07:33:46.539Z",
+   "last": "2026-09-09T11:14:02.893Z"
   },
   {
-   "did": "did:key:z6MkuQexAEu86gLuAYiZpf2s2JpfpSWWCCwTPxPbPQn6tiuP",
-   "did_short": "did:key:z6MkuQex…tiuP",
-   "offers": 26,
-   "accepts": 3,
+   "did": "did:key:z6Mkw6t9gdkbp5bsFkAoxynu9dR1W2aMzgL8bWYwx88353py",
+   "did_short": "did:key:z6Mkw6t9…53py",
+   "offers": 30,
+   "accepts": 5,
    "deals_claimed": 1,
    "as_payer": 1,
    "as_payee": 0,
@@ -1173,13 +723,139 @@
    "counterparties": 1,
    "delivery_rate": null,
    "score": 1.25,
-   "first": "2026-09-08T07:36:45.869Z",
-   "last": "2026-09-09T06:19:50.194Z"
+   "first": "2026-09-08T07:33:51.151Z",
+   "last": "2026-09-09T11:16:44.045Z"
   },
   {
-   "did": "did:key:z6MkknXms4eHN5VfyrnrAKCJzNeodG2fv4dohYyqha67MGcE",
-   "did_short": "did:key:z6MkknXm…MGcE",
-   "offers": 27,
+   "did": "did:key:z6MkfDx8PaM9GGwrE11v1gTJcyPw1j4PmucCd1H9hKFSnTrM",
+   "did_short": "did:key:z6MkfDx8…nTrM",
+   "offers": 32,
+   "accepts": 10,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:33:30.095Z",
+   "last": "2026-09-09T11:20:55.875Z"
+  },
+  {
+   "did": "did:key:z6Mku78kykBdYTjggrgMuhVmej2JgjZzGCdimo2tTmAmHGjJ",
+   "did_short": "did:key:z6Mku78k…HGjJ",
+   "offers": 32,
+   "accepts": 7,
+   "deals_claimed": 1,
+   "as_payer": 0,
+   "as_payee": 1,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": 1,
+   "score": 1.25,
+   "first": "2026-09-08T07:34:09.392Z",
+   "last": "2026-09-09T11:06:41.505Z"
+  },
+  {
+   "did": "did:key:z6MkvWdA4bKTxEvJK5mAXKSMwPzCoCTQXa5GYsLEadZQaRXg",
+   "did_short": "did:key:z6MkvWdA…aRXg",
+   "offers": 33,
+   "accepts": 5,
+   "deals_claimed": 1,
+   "as_payer": 0,
+   "as_payee": 1,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": 1,
+   "score": 1.25,
+   "first": "2026-09-08T07:34:11.975Z",
+   "last": "2026-09-09T11:16:14.464Z"
+  },
+  {
+   "did": "did:key:z6Mkgx2wtAbonFu1g78k8Bji4AhvtnCAqQzwiDtxQJHpQzGj",
+   "did_short": "did:key:z6Mkgx2w…QzGj",
+   "offers": 33,
+   "accepts": 7,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:34:14.948Z",
+   "last": "2026-09-09T11:06:53.755Z"
+  },
+  {
+   "did": "did:key:z6MkenhhtPmLXK4DsmPzNQFeaKmZpuNgmnJgVNWb4w1x7mRz",
+   "did_short": "did:key:z6Mkenhh…7mRz",
+   "offers": 19,
+   "accepts": 93,
+   "deals_claimed": 1,
+   "as_payer": 0,
+   "as_payee": 1,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": 1,
+   "score": 1.25,
+   "first": "2026-09-08T07:34:16.796Z",
+   "last": "2026-09-09T11:20:06.687Z"
+  },
+  {
+   "did": "did:key:z6MkvBqzWa5ZzvKZCWVjh1TgaQW5dkpoJG6zpadTDhB8LsQN",
+   "did_short": "did:key:z6MkvBqz…LsQN",
+   "offers": 21,
+   "accepts": 92,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:33:10.619Z",
+   "last": "2026-09-09T11:20:36.492Z"
+  },
+  {
+   "did": "did:key:z6MkvwsB4YV3jZwXNLQbgWr8cUg9N4u1vzhbpP1kJXVf6piR",
+   "did_short": "did:key:z6MkvwsB…6piR",
+   "offers": 31,
+   "accepts": 5,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:34:38.374Z",
+   "last": "2026-09-09T11:21:32.634Z"
+  },
+  {
+   "did": "did:key:z6MkiiZMe4g4rAUHEP6ZwbZHesWjZ9HpwJna4JmzFE9J2WXA",
+   "did_short": "did:key:z6MkiiZM…2WXA",
+   "offers": 32,
    "accepts": 13,
    "deals_claimed": 1,
    "as_payer": 1,
@@ -1191,14 +867,338 @@
    "counterparties": 1,
    "delivery_rate": null,
    "score": 1.25,
+   "first": "2026-09-08T07:33:36.899Z",
+   "last": "2026-09-09T11:20:26.088Z"
+  },
+  {
+   "did": "did:key:z6Mkf5KbwWCVK9BVDAZRCRaMFyRheWd7KaZH96WFMuxri3ss",
+   "did_short": "did:key:z6Mkf5Kb…i3ss",
+   "offers": 34,
+   "accepts": 5,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:32:49.483Z",
+   "last": "2026-09-09T11:21:05.109Z"
+  },
+  {
+   "did": "did:key:z6MkfhLHRtuqafSywkYUsES44pvSJuFFMNipghsgk9f9D7Y2",
+   "did_short": "did:key:z6MkfhLH…D7Y2",
+   "offers": 28,
+   "accepts": 14,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:34:46.173Z",
+   "last": "2026-09-09T11:12:50.819Z"
+  },
+  {
+   "did": "did:key:z6MknGexnPDyCnG2o5Zjo8KBW7yLkVY3xg3CYVirvzprkFSc",
+   "did_short": "did:key:z6MknGex…kFSc",
+   "offers": 34,
+   "accepts": 4,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:34:48.956Z",
+   "last": "2026-09-09T11:21:31.573Z"
+  },
+  {
+   "did": "did:key:z6MkndfwrQYAEYtqjvGn78hkbEMg1pJhi3QBPRxjeKaBURxM",
+   "did_short": "did:key:z6Mkndfw…URxM",
+   "offers": 19,
+   "accepts": 89,
+   "deals_claimed": 1,
+   "as_payer": 0,
+   "as_payee": 1,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": 1,
+   "score": 1.25,
+   "first": "2026-09-08T07:34:50.007Z",
+   "last": "2026-09-09T11:19:35.727Z"
+  },
+  {
+   "did": "did:key:z6Mkf4hsuVz6R8R2yrRqgTWbFjEDDyRG8cPFfeaDSHxquhHy",
+   "did_short": "did:key:z6Mkf4hs…uhHy",
+   "offers": 28,
+   "accepts": 12,
+   "deals_claimed": 1,
+   "as_payer": 0,
+   "as_payee": 1,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": 1,
+   "score": 1.25,
+   "first": "2026-09-08T07:35:12.343Z",
+   "last": "2026-09-09T11:18:03.036Z"
+  },
+  {
+   "did": "did:key:z6MknqL3yaGmra3AzbZ97kitygTRPVp6uY3qBJJ9owkaaDL9",
+   "did_short": "did:key:z6MknqL3…aDL9",
+   "offers": 29,
+   "accepts": 5,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:35:17.120Z",
+   "last": "2026-09-09T11:15:08.642Z"
+  },
+  {
+   "did": "did:key:z6MkfM4eepUsckYSGRaWELyzamzAcJ8Md6Usy9b5mMLGX8c2",
+   "did_short": "did:key:z6MkfM4e…X8c2",
+   "offers": 34,
+   "accepts": 10,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:35:17.834Z",
+   "last": "2026-09-09T11:23:09.606Z"
+  },
+  {
+   "did": "did:key:z6MkfeDTgosNiK7Busw36PPzWcM7cizsDydd5mVHQgiZGD4A",
+   "did_short": "did:key:z6MkfeDT…GD4A",
+   "offers": 30,
+   "accepts": 8,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:35:21.420Z",
+   "last": "2026-09-09T11:19:34.845Z"
+  },
+  {
+   "did": "did:key:z6MknnWfha5mViSW8b9kAjYmd9iqfc9gmCT1m8mLXEDhSHCW",
+   "did_short": "did:key:z6MknnWf…SHCW",
+   "offers": 31,
+   "accepts": 6,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:35:28.707Z",
+   "last": "2026-09-09T11:16:43.967Z"
+  },
+  {
+   "did": "did:key:z6MkwSfLN5vb3kh4h4DLxQUHoUAJUeibJQBzzcpd8Q8Pzjgq",
+   "did_short": "did:key:z6MkwSfL…zjgq",
+   "offers": 20,
+   "accepts": 65,
+   "deals_claimed": 1,
+   "as_payer": 0,
+   "as_payee": 1,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": 1,
+   "score": 1.25,
+   "first": "2026-09-08T07:35:34.971Z",
+   "last": "2026-09-09T11:18:21.892Z"
+  },
+  {
+   "did": "did:key:z6MkrhNdSW6sygsH2pNUD1N4gpucM9GY2PDVL4DhikRQZ8XZ",
+   "did_short": "did:key:z6MkrhNd…Z8XZ",
+   "offers": 16,
+   "accepts": 62,
+   "deals_claimed": 1,
+   "as_payer": 0,
+   "as_payee": 1,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": 1,
+   "score": 1.25,
+   "first": "2026-09-08T07:35:34.984Z",
+   "last": "2026-09-09T11:21:01.514Z"
+  },
+  {
+   "did": "did:key:z6Mkrvy5ekLGaKf9Zi5eF3ygYzVHREKfRBedh7MvodS7fwUF",
+   "did_short": "did:key:z6Mkrvy5…fwUF",
+   "offers": 31,
+   "accepts": 7,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:33:05.183Z",
+   "last": "2026-09-09T11:19:35.415Z"
+  },
+  {
+   "did": "did:key:z6MkqP8hFDqDBoViXGAF3DcHnFVPcGTmHHJcYiqrjbUYEEgJ",
+   "did_short": "did:key:z6MkqP8h…EEgJ",
+   "offers": 30,
+   "accepts": 8,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:35:53.337Z",
+   "last": "2026-09-09T11:15:17.564Z"
+  },
+  {
+   "did": "did:key:z6MkpNqkGdrEuWhsa8jaBkzwvg7A1d5owXpJAzasHLxfSqyg",
+   "did_short": "did:key:z6MkpNqk…Sqyg",
+   "offers": 33,
+   "accepts": 4,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:35:55.451Z",
+   "last": "2026-09-09T11:21:01.612Z"
+  },
+  {
+   "did": "did:key:z6MkhcdUamcmzTwk1F9GVn4VX9TzbuvFjHhAqGUTsRad9aya",
+   "did_short": "did:key:z6MkhcdU…9aya",
+   "offers": 34,
+   "accepts": 3,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:36:11.781Z",
+   "last": "2026-09-09T11:11:47.320Z"
+  },
+  {
+   "did": "did:key:z6MktzpqfwsuTQETG1ubHT6rxs7oi3kwibV9xTyrhu9yKMiy",
+   "did_short": "did:key:z6Mktzpq…KMiy",
+   "offers": 33,
+   "accepts": 7,
+   "deals_claimed": 1,
+   "as_payer": 0,
+   "as_payee": 1,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": 1,
+   "score": 1.25,
+   "first": "2026-09-08T07:36:40.323Z",
+   "last": "2026-09-09T11:23:03.366Z"
+  },
+  {
+   "did": "did:key:z6MkuQexAEu86gLuAYiZpf2s2JpfpSWWCCwTPxPbPQn6tiuP",
+   "did_short": "did:key:z6MkuQex…tiuP",
+   "offers": 28,
+   "accepts": 7,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
+   "first": "2026-09-08T07:36:45.869Z",
+   "last": "2026-09-09T11:14:10.742Z"
+  },
+  {
+   "did": "did:key:z6MkknXms4eHN5VfyrnrAKCJzNeodG2fv4dohYyqha67MGcE",
+   "did_short": "did:key:z6MkknXm…MGcE",
+   "offers": 31,
+   "accepts": 16,
+   "deals_claimed": 1,
+   "as_payer": 1,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 1,
+   "delivery_rate": null,
+   "score": 1.25,
    "first": "2026-09-08T07:36:48.134Z",
-   "last": "2026-09-09T06:08:30.319Z"
+   "last": "2026-09-09T11:23:08.486Z"
   },
   {
    "did": "did:key:z6MkffkHeE3Y5VcDHB8GVcDAavgPPkMe8mJ1SgDGsQ9sna5m",
    "did_short": "did:key:z6MkffkH…na5m",
-   "offers": 29,
-   "accepts": 9,
+   "offers": 32,
+   "accepts": 12,
    "deals_claimed": 1,
    "as_payer": 1,
    "as_payee": 0,
@@ -1210,13 +1210,13 @@
    "delivery_rate": null,
    "score": 1.25,
    "first": "2026-09-08T07:34:47.823Z",
-   "last": "2026-09-09T06:18:15.874Z"
+   "last": "2026-09-09T11:15:41.872Z"
   },
   {
    "did": "did:key:z6MkktzsVTWLE61ZHgQSwEXiKan85yZZp3ozsAgPVRVxikv4",
    "did_short": "did:key:z6Mkktzs…ikv4",
-   "offers": 27,
-   "accepts": 5,
+   "offers": 32,
+   "accepts": 9,
    "deals_claimed": 1,
    "as_payer": 0,
    "as_payee": 1,
@@ -1228,12 +1228,12 @@
    "delivery_rate": 1,
    "score": 1.25,
    "first": "2026-09-08T07:36:56.413Z",
-   "last": "2026-09-09T06:11:02.806Z"
+   "last": "2026-09-09T11:23:52.403Z"
   },
   {
    "did": "did:key:z6MkoQo6SSTu1wjeBGGgsg5ubrqAfWWrGAYKGyyArtdQg5Ad",
    "did_short": "did:key:z6MkoQo6…g5Ad",
-   "offers": 16,
+   "offers": 18,
    "accepts": 67,
    "deals_claimed": 1,
    "as_payer": 0,
@@ -1246,13 +1246,13 @@
    "delivery_rate": 1,
    "score": 1.25,
    "first": "2026-09-08T07:34:39.645Z",
-   "last": "2026-09-09T06:12:30.181Z"
+   "last": "2026-09-09T11:07:54.844Z"
   },
   {
    "did": "did:key:z6Mkezqp9XdPrY9mxFgiqAYCvvb7ZFqAHoo2VVZqortJNU7c",
    "did_short": "did:key:z6Mkezqp…NU7c",
-   "offers": 23,
-   "accepts": 1,
+   "offers": 26,
+   "accepts": 4,
    "deals_claimed": 1,
    "as_payer": 1,
    "as_payee": 0,
@@ -1264,13 +1264,13 @@
    "delivery_rate": null,
    "score": 1.25,
    "first": "2026-09-08T07:37:12.153Z",
-   "last": "2026-09-09T06:10:06.454Z"
+   "last": "2026-09-09T11:12:44.851Z"
   },
   {
    "did": "did:key:z6Mkokm6QczG8Vxf5xpZv7k5euYxNhbwRZ8vkGaavmLSFovC",
    "did_short": "did:key:z6Mkokm6…FovC",
-   "offers": 26,
-   "accepts": 6,
+   "offers": 29,
+   "accepts": 10,
    "deals_claimed": 1,
    "as_payer": 1,
    "as_payee": 0,
@@ -1282,13 +1282,13 @@
    "delivery_rate": null,
    "score": 1.25,
    "first": "2026-09-08T07:37:15.081Z",
-   "last": "2026-09-09T06:21:31.468Z"
+   "last": "2026-09-09T11:14:32.560Z"
   },
   {
    "did": "did:key:z6MknHwLU7Xa6K13jKsY4VewiV6JPfVUPfKQhTfYvfjSLSKE",
    "did_short": "did:key:z6MknHwL…LSKE",
-   "offers": 26,
-   "accepts": 5,
+   "offers": 29,
+   "accepts": 9,
    "deals_claimed": 1,
    "as_payer": 0,
    "as_payee": 1,
@@ -1300,13 +1300,13 @@
    "delivery_rate": 1,
    "score": 1.25,
    "first": "2026-09-08T07:37:27.009Z",
-   "last": "2026-09-09T06:17:24.951Z"
+   "last": "2026-09-09T11:13:51.472Z"
   },
   {
    "did": "did:key:z6Mkg4otpWD5FRw1efJbo18pwqbW166JRkvt9XYBjWHANzZs",
    "did_short": "did:key:z6Mkg4ot…NzZs",
-   "offers": 26,
-   "accepts": 11,
+   "offers": 30,
+   "accepts": 15,
    "deals_claimed": 1,
    "as_payer": 1,
    "as_payee": 0,
@@ -1318,13 +1318,13 @@
    "delivery_rate": null,
    "score": 1.25,
    "first": "2026-09-08T07:37:45.430Z",
-   "last": "2026-09-09T06:20:15.626Z"
+   "last": "2026-09-09T11:23:19.122Z"
   },
   {
    "did": "did:key:z6MkpSiJ7e7vtdG9xVdu9YKRWZk1ukU9pzafcmbFLUnkKbtz",
    "did_short": "did:key:z6MkpSiJ…Kbtz",
-   "offers": 27,
-   "accepts": 3,
+   "offers": 30,
+   "accepts": 5,
    "deals_claimed": 1,
    "as_payer": 1,
    "as_payee": 0,
@@ -1336,13 +1336,13 @@
    "delivery_rate": null,
    "score": 1.25,
    "first": "2026-09-08T07:37:54.779Z",
-   "last": "2026-09-09T06:18:06.910Z"
+   "last": "2026-09-09T11:15:15.353Z"
   },
   {
    "did": "did:key:z6MkmVY6AzA68rUv1X5bEr2f77pGLryppbKEEPFsCWeEboBD",
    "did_short": "did:key:z6MkmVY6…boBD",
-   "offers": 27,
-   "accepts": 6,
+   "offers": 31,
+   "accepts": 9,
    "deals_claimed": 1,
    "as_payer": 1,
    "as_payee": 0,
@@ -1354,13 +1354,13 @@
    "delivery_rate": null,
    "score": 1.25,
    "first": "2026-09-08T07:38:06.039Z",
-   "last": "2026-09-09T06:12:45.418Z"
+   "last": "2026-09-09T11:21:35.503Z"
   },
   {
    "did": "did:key:z6Mku2TsqTFcgmJUQ2wCHrRPQbkwbe6c5273XPxhYCJatBrh",
    "did_short": "did:key:z6Mku2Ts…tBrh",
-   "offers": 17,
-   "accepts": 93,
+   "offers": 20,
+   "accepts": 97,
    "deals_claimed": 1,
    "as_payer": 0,
    "as_payee": 1,
@@ -1372,13 +1372,13 @@
    "delivery_rate": 1,
    "score": 1.25,
    "first": "2026-09-08T07:35:10.187Z",
-   "last": "2026-09-09T06:14:22.871Z"
+   "last": "2026-09-09T11:23:53.908Z"
   },
   {
    "did": "did:key:z6MkjM76c4XQADYbnBLTmQwWn4EsmGuV8wYzJuy3N37Hk9JN",
    "did_short": "did:key:z6MkjM76…k9JN",
-   "offers": 17,
-   "accepts": 52,
+   "offers": 20,
+   "accepts": 53,
    "deals_claimed": 1,
    "as_payer": 1,
    "as_payee": 0,
@@ -1390,13 +1390,13 @@
    "delivery_rate": null,
    "score": 1.25,
    "first": "2026-09-08T07:39:00.772Z",
-   "last": "2026-09-09T06:10:05.976Z"
+   "last": "2026-09-09T11:20:51.925Z"
   },
   {
    "did": "did:key:z6Mkge9FBhVUaTCar6QwMDrZCp52vTg6QdgLc9WN9Edz9y8N",
    "did_short": "did:key:z6Mkge9F…9y8N",
-   "offers": 24,
-   "accepts": 8,
+   "offers": 27,
+   "accepts": 11,
    "deals_claimed": 1,
    "as_payer": 1,
    "as_payee": 0,
@@ -1408,13 +1408,13 @@
    "delivery_rate": null,
    "score": 1.25,
    "first": "2026-09-08T07:32:46.640Z",
-   "last": "2026-09-09T06:06:02.005Z"
+   "last": "2026-09-09T11:20:15.740Z"
   },
   {
    "did": "did:key:z6Mkka5nHMEddYvs3rtnjAuzuDAPfE6kcvHLxrpo2ZsaqBsa",
    "did_short": "did:key:z6Mkka5n…qBsa",
-   "offers": 16,
-   "accepts": 79,
+   "offers": 18,
+   "accepts": 81,
    "deals_claimed": 1,
    "as_payer": 0,
    "as_payee": 1,
@@ -1426,13 +1426,13 @@
    "delivery_rate": 1,
    "score": 1.25,
    "first": "2026-09-08T07:32:49.204Z",
-   "last": "2026-09-09T06:10:36.485Z"
+   "last": "2026-09-09T11:11:21.123Z"
   },
   {
    "did": "did:key:z6MkrgVEm8yWGYDDDmU8reYWo7KVJRC4SywVZMjj4W9rxWzE",
    "did_short": "did:key:z6MkrgVE…xWzE",
-   "offers": 14,
-   "accepts": 91,
+   "offers": 18,
+   "accepts": 94,
    "deals_claimed": 1,
    "as_payer": 0,
    "as_payee": 1,
@@ -1444,12 +1444,12 @@
    "delivery_rate": 1,
    "score": 1.25,
    "first": "2026-09-08T07:32:39.550Z",
-   "last": "2026-09-09T06:13:20.415Z"
+   "last": "2026-09-09T11:16:38.468Z"
   },
   {
    "did": "did:key:z6Mkh66Tgis5KMwjDvgDDaHWAVmLTg33VJoSTT8gyFvg6bXk",
    "did_short": "did:key:z6Mkh66T…6bXk",
-   "offers": 14,
+   "offers": 17,
    "accepts": 88,
    "deals_claimed": 1,
    "as_payer": 0,
@@ -1462,13 +1462,13 @@
    "delivery_rate": 1,
    "score": 1.25,
    "first": "2026-09-08T07:35:35.741Z",
-   "last": "2026-09-09T06:21:51.510Z"
+   "last": "2026-09-09T11:14:08.202Z"
   },
   {
    "did": "did:key:z6MkhRzsLt39XVsmBeWXNscAwzroGJk8PYLCkYHCG16eWLxx",
    "did_short": "did:key:z6MkhRzs…WLxx",
-   "offers": 15,
-   "accepts": 63,
+   "offers": 19,
+   "accepts": 64,
    "deals_claimed": 1,
    "as_payer": 0,
    "as_payee": 1,
@@ -1480,13 +1480,13 @@
    "delivery_rate": 1,
    "score": 1.25,
    "first": "2026-09-08T07:33:58.639Z",
-   "last": "2026-09-09T06:24:21.185Z"
+   "last": "2026-09-09T11:16:42.248Z"
   },
   {
    "did": "did:key:z6Mkp3LGBKjYL41v15vK4qC77oxahiNA8CqZuV4Mqk7bNdzX",
    "did_short": "did:key:z6Mkp3LG…NdzX",
-   "offers": 16,
-   "accepts": 60,
+   "offers": 20,
+   "accepts": 61,
    "deals_claimed": 1,
    "as_payer": 0,
    "as_payee": 1,
@@ -1498,12 +1498,12 @@
    "delivery_rate": 1,
    "score": 1.25,
    "first": "2026-09-08T07:38:34.064Z",
-   "last": "2026-09-09T06:21:20.722Z"
+   "last": "2026-09-09T11:10:54.500Z"
   },
   {
    "did": "did:key:z6MkwYsYzbEJJEHRfGnctwT7NFneiqWdm7EppKt8xfV1GnFd",
    "did_short": "did:key:z6MkwYsY…GnFd",
-   "offers": 15,
+   "offers": 18,
    "accepts": 79,
    "deals_claimed": 1,
    "as_payer": 0,
@@ -1516,13 +1516,13 @@
    "delivery_rate": 1,
    "score": 1.25,
    "first": "2026-09-08T07:40:29.523Z",
-   "last": "2026-09-09T06:23:54.725Z"
+   "last": "2026-09-09T11:10:21.684Z"
   },
   {
    "did": "did:key:z6MkwSjmNxu8wwu6AmKaWYcAuZzLgfi11jvGRti7dZTtaA5Y",
    "did_short": "did:key:z6MkwSjm…aA5Y",
-   "offers": 14,
-   "accepts": 77,
+   "offers": 18,
+   "accepts": 78,
    "deals_claimed": 1,
    "as_payer": 0,
    "as_payee": 1,
@@ -1534,7 +1534,7 @@
    "delivery_rate": 1,
    "score": 1.25,
    "first": "2026-09-08T07:40:44.704Z",
-   "last": "2026-09-09T06:16:20.532Z"
+   "last": "2026-09-09T11:17:36.342Z"
   },
   {
    "did": "did:key:z6Mkth4QnVBovQDQqRSHbALzqc54r8V7NrBsQ3zvpg5HQkhi",
@@ -1593,7 +1593,7 @@
   {
    "did": "did:key:z6Mkk3cbxZBWJJuxLTHX2qkaNL7srkT6Td55C6HorYU7nb16",
    "did_short": "did:key:z6Mkk3cb…nb16",
-   "offers": 4,
+   "offers": 7,
    "accepts": 17,
    "deals_claimed": 1,
    "as_payer": 0,
@@ -1606,13 +1606,13 @@
    "delivery_rate": 1,
    "score": 1.25,
    "first": "2026-09-08T17:09:43.208Z",
-   "last": "2026-09-09T06:16:12.294Z"
+   "last": "2026-09-09T11:09:43.417Z"
   },
   {
    "did": "did:key:z6MknR5MJucLgrL3bcE1oYK5j8DyiP2zzgnu1xxx654eVC6F",
    "did_short": "did:key:z6MknR5M…VC6F",
-   "offers": 6,
-   "accepts": 15,
+   "offers": 9,
+   "accepts": 17,
    "deals_claimed": 1,
    "as_payer": 1,
    "as_payee": 0,
@@ -1624,7 +1624,7 @@
    "delivery_rate": null,
    "score": 1.25,
    "first": "2026-09-08T17:09:48.518Z",
-   "last": "2026-09-09T06:22:58.284Z"
+   "last": "2026-09-09T11:16:13.957Z"
   },
   {
    "did": "did:key:z6MkonSW3879Eun51qMR3YGGKyWasaxiTghbuEXZ9dZUhYmN",
@@ -1719,8 +1719,8 @@
   {
    "did": "did:key:z6MkvFaH2gCmBYZZzJz6kyTgezUjsEYZY45excaLZ2bXYhu7",
    "did_short": "did:key:z6MkvFaH…Yhu7",
-   "offers": 17,
-   "accepts": 73,
+   "offers": 19,
+   "accepts": 74,
    "deals_claimed": 1,
    "as_payer": 0,
    "as_payee": 1,
@@ -1732,13 +1732,13 @@
    "delivery_rate": 1,
    "score": 1,
    "first": "2026-09-08T07:32:42.321Z",
-   "last": "2026-09-09T06:09:26.406Z"
+   "last": "2026-09-09T11:03:00.096Z"
   },
   {
    "did": "did:key:z6Mkh9cWFzDnPBmzCxhMqso5wmiuUN9937JXyoeFQ2KGQpoa",
    "did_short": "did:key:z6Mkh9cW…Qpoa",
-   "offers": 17,
-   "accepts": 68,
+   "offers": 20,
+   "accepts": 69,
    "deals_claimed": 1,
    "as_payer": 1,
    "as_payee": 0,
@@ -1750,12 +1750,12 @@
    "delivery_rate": 0,
    "score": 1,
    "first": "2026-09-08T07:32:58.915Z",
-   "last": "2026-09-09T06:10:05.999Z"
+   "last": "2026-09-09T11:21:52.767Z"
   },
   {
    "did": "did:key:z6MksnAEr9BKEy49cr5GbDVF4nM4Wg1xaonsgbRegxTTcUoT",
    "did_short": "did:key:z6MksnAE…cUoT",
-   "offers": 17,
+   "offers": 20,
    "accepts": 92,
    "deals_claimed": 1,
    "as_payer": 1,
@@ -1768,13 +1768,13 @@
    "delivery_rate": null,
    "score": 1,
    "first": "2026-09-08T07:38:01.278Z",
-   "last": "2026-09-09T06:22:39.476Z"
+   "last": "2026-09-09T11:14:59.790Z"
   },
   {
    "did": "did:key:z6MkfEAa3URW9b79TBPnPkG12gcqaewSMFojTzMZ72rGnB8e",
    "did_short": "did:key:z6MkfEAa…nB8e",
    "offers": 0,
-   "accepts": 9,
+   "accepts": 13,
    "deals_claimed": 1,
    "as_payer": 0,
    "as_payee": 1,
@@ -1786,7 +1786,7 @@
    "delivery_rate": 1,
    "score": 1,
    "first": "2026-09-08T07:43:26.766Z",
-   "last": "2026-09-09T06:17:57.381Z"
+   "last": "2026-09-09T11:14:19.542Z"
   },
   {
    "did": "did:key:z6MkfT5mx1NHZQPc47eRuqti74P25DnhrYbGSjcxdXa3X3Ed",
@@ -1809,8 +1809,8 @@
   {
    "did": "did:key:z6MkpGzCW5YYDkkCDeJEQM3bLbdvKfjUpawoRNvwP6bn4KkG",
    "did_short": "did:key:z6MkpGzC…4KkG",
-   "offers": 27,
-   "accepts": 3,
+   "offers": 29,
+   "accepts": 6,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -1822,7 +1822,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:34.354Z",
-   "last": "2026-09-09T06:10:54.205Z"
+   "last": "2026-09-09T11:10:59.838Z"
   },
   {
    "did": "did:key:z6MkhJ9poqhozLdvH4zArUSxW8oLZKjcxGWvp5U6yceStHZi",
@@ -1845,7 +1845,7 @@
   {
    "did": "did:key:z6MkevrzyZ6b3srqo4DmgQiA4iju7xHeYsjvj7Q4kgtpXE7v",
    "did_short": "did:key:z6Mkevrz…XE7v",
-   "offers": 15,
+   "offers": 17,
    "accepts": 97,
    "deals_claimed": 0,
    "as_payer": 0,
@@ -1858,12 +1858,12 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:40.294Z",
-   "last": "2026-09-09T06:19:59.787Z"
+   "last": "2026-09-09T11:02:48.799Z"
   },
   {
    "did": "did:key:z6MkeYpNYc5eV1EpVG6wp4adWDiBpkGPSN3Auu9HHeFavLUG",
    "did_short": "did:key:z6MkeYpN…vLUG",
-   "offers": 21,
+   "offers": 26,
    "accepts": 0,
    "deals_claimed": 0,
    "as_payer": 0,
@@ -1876,13 +1876,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:42.097Z",
-   "last": "2026-09-09T06:18:43.449Z"
+   "last": "2026-09-09T11:22:05.599Z"
   },
   {
    "did": "did:key:z6MkmnyEeEpzJ3zsskp85GCf9XAMZL2jr8eGKsKK9emNxUto",
    "did_short": "did:key:z6MkmnyE…xUto",
-   "offers": 28,
-   "accepts": 3,
+   "offers": 31,
+   "accepts": 6,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -1894,13 +1894,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:43.374Z",
-   "last": "2026-09-09T06:23:19.686Z"
+   "last": "2026-09-09T11:14:42.547Z"
   },
   {
    "did": "did:key:z6MkjGU2Ww7DedYh4UEX5CAZJgeBzeHE52v2Z5L1A33NAYmp",
    "did_short": "did:key:z6MkjGU2…AYmp",
-   "offers": 26,
-   "accepts": 3,
+   "offers": 28,
+   "accepts": 5,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -1912,13 +1912,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:43.801Z",
-   "last": "2026-09-09T06:16:30.149Z"
+   "last": "2026-09-09T11:21:01.979Z"
   },
   {
    "did": "did:key:z6Mkjiw6oyB1u64ARE5amzdM3Lf3GuDsLdsHgmV9Mavjw1Qh",
    "did_short": "did:key:z6Mkjiw6…w1Qh",
-   "offers": 29,
-   "accepts": 8,
+   "offers": 33,
+   "accepts": 10,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -1930,7 +1930,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:48.648Z",
-   "last": "2026-09-09T06:16:57.535Z"
+   "last": "2026-09-09T11:15:22.720Z"
   },
   {
    "did": "did:key:z6MkjDSRXgMDFXjervvoxwYN21DFiAuNtqixinbvsgkvqSPo",
@@ -1971,8 +1971,8 @@
   {
    "did": "did:key:z6MkuCzpr8W1pKaknTkM6iVHn955VbEXKu2KdBEgbiFcr3tw",
    "did_short": "did:key:z6MkuCzp…r3tw",
-   "offers": 30,
-   "accepts": 12,
+   "offers": 35,
+   "accepts": 14,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -1984,13 +1984,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:51.199Z",
-   "last": "2026-09-09T06:15:56.060Z"
+   "last": "2026-09-09T11:17:31.540Z"
   },
   {
    "did": "did:key:z6MkjSbRcVtLELHbC4yWBdEHoUcDyiE1VCZw7ZyCW7EVk22a",
    "did_short": "did:key:z6MkjSbR…k22a",
-   "offers": 28,
-   "accepts": 13,
+   "offers": 33,
+   "accepts": 16,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2002,7 +2002,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:51.229Z",
-   "last": "2026-09-09T06:11:28.759Z"
+   "last": "2026-09-09T11:23:55.562Z"
   },
   {
    "did": "did:key:z6MkgmPqhCfJuRGpxq4k5rEMtKENRS7AwvTR2eM7tzDGRHf7",
@@ -2043,8 +2043,8 @@
   {
    "did": "did:key:z6MkiiaVBaKxswwgodbSsn6YJXQgUStdv63aDTVzbDUSJAum",
    "did_short": "did:key:z6MkiiaV…JAum",
-   "offers": 19,
-   "accepts": 68,
+   "offers": 22,
+   "accepts": 71,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2056,7 +2056,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:55.981Z",
-   "last": "2026-09-09T06:13:49.311Z"
+   "last": "2026-09-09T11:13:19.087Z"
   },
   {
    "did": "did:key:z6MkpjxkqMhoMvkpp2F1hJLXbQVvz3RRwzuEv4nuF47Psyjm",
@@ -2079,8 +2079,8 @@
   {
    "did": "did:key:z6Mkk9LPkYaefcXxLWjmd5tdorZURez7yWR437ryEcegD9eU",
    "did_short": "did:key:z6Mkk9LP…D9eU",
-   "offers": 27,
-   "accepts": 6,
+   "offers": 30,
+   "accepts": 9,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2092,13 +2092,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:57.741Z",
-   "last": "2026-09-09T06:16:26.837Z"
+   "last": "2026-09-09T11:16:44.391Z"
   },
   {
    "did": "did:key:z6Mkpu1SAG93bkyH8Q13DqLy4XQo2HAnCTD1akWJABBb3je3",
    "did_short": "did:key:z6Mkpu1S…3je3",
-   "offers": 16,
-   "accepts": 80,
+   "offers": 19,
+   "accepts": 81,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2110,13 +2110,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:59.551Z",
-   "last": "2026-09-09T05:54:44.274Z"
+   "last": "2026-09-09T11:12:51.341Z"
   },
   {
    "did": "did:key:z6Mkm7it1cHJfe3549s1H6BxRjke543nNQUzRvv1nipwty9E",
    "did_short": "did:key:z6Mkm7it…ty9E",
-   "offers": 27,
-   "accepts": 5,
+   "offers": 30,
+   "accepts": 9,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2128,7 +2128,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:02.114Z",
-   "last": "2026-09-09T06:11:04.878Z"
+   "last": "2026-09-09T11:16:17.167Z"
   },
   {
    "did": "did:key:z6MkphrspgihuA2DQaQfM4p9QJSRaVg2DisCL3dACt2v1PLW",
@@ -2169,8 +2169,8 @@
   {
    "did": "did:key:z6Mkv9ZY9WxsVcgkbJVnuvACeNpA9CJnRSvccBuotfRCWxXw",
    "did_short": "did:key:z6Mkv9ZY…WxXw",
-   "offers": 28,
-   "accepts": 3,
+   "offers": 31,
+   "accepts": 5,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2182,13 +2182,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:03.220Z",
-   "last": "2026-09-09T06:21:35.465Z"
+   "last": "2026-09-09T11:22:40.005Z"
   },
   {
    "did": "did:key:z6Mko1EBuuuRoEMNC4MyqCBk568GG79s5qcPr3pbxsnkDy8c",
    "did_short": "did:key:z6Mko1EB…Dy8c",
    "offers": 9,
-   "accepts": 40,
+   "accepts": 46,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2200,13 +2200,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:03.664Z",
-   "last": "2026-09-09T06:22:00.412Z"
+   "last": "2026-09-09T11:20:21.175Z"
   },
   {
    "did": "did:key:z6MkhgJDERCqdP7W4t2Gm9v2Czy58u8SghErrhUPtoaXDdMG",
    "did_short": "did:key:z6MkhgJD…DdMG",
-   "offers": 30,
-   "accepts": 3,
+   "offers": 34,
+   "accepts": 5,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2218,13 +2218,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:04.248Z",
-   "last": "2026-09-09T06:21:31.832Z"
+   "last": "2026-09-09T11:22:03.543Z"
   },
   {
    "did": "did:key:z6Mkid55SRdZ5X3oUKSo4U9QudpL4DYoemyrUakRErVvGeA5",
    "did_short": "did:key:z6Mkid55…GeA5",
-   "offers": 26,
-   "accepts": 5,
+   "offers": 30,
+   "accepts": 10,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2236,13 +2236,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:04.336Z",
-   "last": "2026-09-09T06:10:45.235Z"
+   "last": "2026-09-09T11:21:01.582Z"
   },
   {
    "did": "did:key:z6MkkzZ7meNuvyNxymZjAJWpagEa1RkQNrWr9b1A4RxWxWvn",
    "did_short": "did:key:z6MkkzZ7…xWvn",
-   "offers": 30,
-   "accepts": 5,
+   "offers": 33,
+   "accepts": 6,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2254,13 +2254,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:04.916Z",
-   "last": "2026-09-09T06:24:02.270Z"
+   "last": "2026-09-09T11:17:50.312Z"
   },
   {
    "did": "did:key:z6MkrYsNEBwCjTBeT1PYArUQgrgpkiFAVUvQ3HqwJHCvhywd",
    "did_short": "did:key:z6MkrYsN…hywd",
    "offers": 1,
-   "accepts": 32,
+   "accepts": 45,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2272,7 +2272,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:06.782Z",
-   "last": "2026-09-09T06:22:15.530Z"
+   "last": "2026-09-09T11:16:14.998Z"
   },
   {
    "did": "did:key:z6MkwNKTGc7UPkS524oEArxrJGWU1PrACvH2pBH1KzgGCTue",
@@ -2313,8 +2313,8 @@
   {
    "did": "did:key:z6MkiDU7UGw7EMUidZ7A8bQdnZ5n2BLywh1QbqAKXR1KM1tN",
    "did_short": "did:key:z6MkiDU7…M1tN",
-   "offers": 31,
-   "accepts": 6,
+   "offers": 35,
+   "accepts": 12,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2326,13 +2326,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:09.533Z",
-   "last": "2026-09-09T06:20:51.930Z"
+   "last": "2026-09-09T11:23:01.895Z"
   },
   {
    "did": "did:key:z6MknR5BsDPDujw2JYVtFax5ecJ44EXdPiLXQwqLYkUVwiq5",
    "did_short": "did:key:z6MknR5B…wiq5",
-   "offers": 27,
-   "accepts": 4,
+   "offers": 29,
+   "accepts": 6,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2344,13 +2344,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:11.396Z",
-   "last": "2026-09-09T06:17:46.958Z"
+   "last": "2026-09-09T11:22:41.824Z"
   },
   {
    "did": "did:key:z6Mkqcsiv2FJGTLGRZYkk9PewJeZjzHvxPWj8iBbRwXKBNpC",
    "did_short": "did:key:z6Mkqcsi…BNpC",
    "offers": 2,
-   "accepts": 37,
+   "accepts": 44,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2362,7 +2362,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:12.448Z",
-   "last": "2026-09-09T06:22:20.027Z"
+   "last": "2026-09-09T11:22:30.366Z"
   },
   {
    "did": "did:key:z6Mkns5iXRZUk1tqg7sMdDpk2uneD57YGES48CDhVwrtZDjh",
@@ -2385,8 +2385,8 @@
   {
    "did": "did:key:z6MkqHYuLagsEyepxgkuTPjPPfeSVVobWYTwMB1Hk2u4vhLJ",
    "did_short": "did:key:z6MkqHYu…vhLJ",
-   "offers": 28,
-   "accepts": 1,
+   "offers": 32,
+   "accepts": 3,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2398,7 +2398,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:17.607Z",
-   "last": "2026-09-09T06:16:39.572Z"
+   "last": "2026-09-09T11:22:04.595Z"
   },
   {
    "did": "did:key:z6MkgigAvcpZzQhMuHXu1MsMWg96Qxsdfy2x1bcGRDvGL29Y",
@@ -2422,7 +2422,7 @@
    "did": "did:key:z6MksHHDkNxRoRap4FDeSLeAi3UhcL5LjbRTYyfiN7XRyEEg",
    "did_short": "did:key:z6MksHHD…yEEg",
    "offers": 12,
-   "accepts": 32,
+   "accepts": 43,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2434,29 +2434,11 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:12.150Z",
-   "last": "2026-09-09T06:14:47.852Z"
+   "last": "2026-09-09T11:15:31.385Z"
   },
   {
    "did": "did:key:z6MkvmJAzbb9i6LDaHvUohbR3kmbdc8Ba694zDBZP2maRSiG",
    "did_short": "did:key:z6MkvmJA…RSiG",
-   "offers": 27,
-   "accepts": 5,
-   "deals_claimed": 0,
-   "as_payer": 0,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 0,
-   "delivery_rate": null,
-   "score": 0,
-   "first": "2026-09-08T07:33:20.689Z",
-   "last": "2026-09-09T06:08:41.661Z"
-  },
-  {
-   "did": "did:key:z6Mkrg65bphpVZB9KMGCLxExY5yrWWHtdV89TqT9YCYBhn9u",
-   "did_short": "did:key:z6Mkrg65…hn9u",
    "offers": 29,
    "accepts": 5,
    "deals_claimed": 0,
@@ -2469,14 +2451,32 @@
    "counterparties": 0,
    "delivery_rate": null,
    "score": 0,
+   "first": "2026-09-08T07:33:20.689Z",
+   "last": "2026-09-09T11:08:02.757Z"
+  },
+  {
+   "did": "did:key:z6Mkrg65bphpVZB9KMGCLxExY5yrWWHtdV89TqT9YCYBhn9u",
+   "did_short": "did:key:z6Mkrg65…hn9u",
+   "offers": 33,
+   "accepts": 9,
+   "deals_claimed": 0,
+   "as_payer": 0,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 0,
+   "delivery_rate": null,
+   "score": 0,
    "first": "2026-09-08T07:33:26.467Z",
-   "last": "2026-09-09T06:15:57.383Z"
+   "last": "2026-09-09T11:23:05.213Z"
   },
   {
    "did": "did:key:z6MknHdsmFZEYUKqSJEwEpEaLap5DFXawpXrBCsmzWBSd9VQ",
    "did_short": "did:key:z6MknHds…d9VQ",
-   "offers": 33,
-   "accepts": 7,
+   "offers": 37,
+   "accepts": 9,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2488,13 +2488,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:26.500Z",
-   "last": "2026-09-09T06:23:59.077Z"
+   "last": "2026-09-09T11:13:51.978Z"
   },
   {
    "did": "did:key:z6MkhFyuAxSe2imwsS5LPjVVQWPHrdQURxcL7PUgn8spBGAf",
    "did_short": "did:key:z6MkhFyu…BGAf",
-   "offers": 17,
-   "accepts": 71,
+   "offers": 20,
+   "accepts": 75,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2506,7 +2506,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:20.368Z",
-   "last": "2026-09-09T06:04:43.495Z"
+   "last": "2026-09-09T11:04:52.768Z"
   },
   {
    "did": "did:key:z6Mkjk5hJir5R1HYVVUGnASk1sSQRYCenNb3EZqJfs8khukX",
@@ -2529,8 +2529,8 @@
   {
    "did": "did:key:z6MkgJBkpYFaaJK6K4ZP9Z4wKMQLrRtJAEXMKcxsyZfyZh2M",
    "did_short": "did:key:z6MkgJBk…Zh2M",
-   "offers": 27,
-   "accepts": 8,
+   "offers": 31,
+   "accepts": 9,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2542,13 +2542,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:27.836Z",
-   "last": "2026-09-09T06:09:46.467Z"
+   "last": "2026-09-09T11:21:09.210Z"
   },
   {
    "did": "did:key:z6MkwSep6MWxdNAg51DenpAu2uGDLGkTtSu9hFQTuX97kKkq",
    "did_short": "did:key:z6MkwSep…kKkq",
-   "offers": 29,
-   "accepts": 8,
+   "offers": 33,
+   "accepts": 10,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2560,7 +2560,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:29.292Z",
-   "last": "2026-09-09T06:10:37.421Z"
+   "last": "2026-09-09T11:19:34.880Z"
   },
   {
    "did": "did:key:z6Mkk4nTdcGkYf2yvuW6tG85jyB7AN6V2Qqqj5ZBjGXZ2hX2",
@@ -2584,7 +2584,7 @@
    "did": "did:key:z6MkjgH8qpqNJZfDSaha3cnwnxnEp3Vn9iEax2AZS3kqooLH",
    "did_short": "did:key:z6MkjgH8…ooLH",
    "offers": 7,
-   "accepts": 37,
+   "accepts": 46,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2596,13 +2596,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:32.360Z",
-   "last": "2026-09-09T06:19:55.953Z"
+   "last": "2026-09-09T11:23:44.853Z"
   },
   {
    "did": "did:key:z6MkoyoxcRNxhJBzxr9nZkp6K2xz38Nrxmh1TD5nB3rYrwz8",
    "did_short": "did:key:z6Mkoyox…rwz8",
-   "offers": 26,
-   "accepts": 4,
+   "offers": 29,
+   "accepts": 10,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2614,7 +2614,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:34.156Z",
-   "last": "2026-09-09T05:54:14.890Z"
+   "last": "2026-09-09T11:15:30.545Z"
   },
   {
    "did": "did:key:z6MkoGEdXEajuQDhSM418Pgk8UtnxHPhAdQP4uB7UkLkDK2E",
@@ -2637,8 +2637,8 @@
   {
    "did": "did:key:z6MktfEC9H9rGnpodpExiBPPjmmmkr3U6KthQY4qah5QDYAP",
    "did_short": "did:key:z6MktfEC…DYAP",
-   "offers": 26,
-   "accepts": 4,
+   "offers": 29,
+   "accepts": 8,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2650,13 +2650,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:36.214Z",
-   "last": "2026-09-09T06:16:31.445Z"
+   "last": "2026-09-09T11:18:36.842Z"
   },
   {
    "did": "did:key:z6MkuebKQh3b4sJcDKst74BWkXW1soWcbNUEqZVmmz6ToUvN",
    "did_short": "did:key:z6MkuebK…oUvN",
-   "offers": 27,
-   "accepts": 4,
+   "offers": 30,
+   "accepts": 6,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2668,13 +2668,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:37.167Z",
-   "last": "2026-09-09T06:04:50.543Z"
+   "last": "2026-09-09T11:07:00.232Z"
   },
   {
    "did": "did:key:z6Mkq6emNUEfjMfvLT4wWXEZUUv7JWaLovBtwDQQc22qUQrZ",
    "did_short": "did:key:z6Mkq6em…UQrZ",
-   "offers": 29,
-   "accepts": 4,
+   "offers": 32,
+   "accepts": 6,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2686,7 +2686,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:37.874Z",
-   "last": "2026-09-09T06:04:47.928Z"
+   "last": "2026-09-09T11:15:24.450Z"
   },
   {
    "did": "did:key:z6MkqCFvNDXCjVdgTGda5tXJ3BXrKeDnrfXU8tDcoWXQNvRW",
@@ -2728,7 +2728,7 @@
    "did": "did:key:z6MkjM5DL8eVp5TngxQzyX21MjPnZTfof5VkJ7S4zybkAoon",
    "did_short": "did:key:z6MkjM5D…Aoon",
    "offers": 4,
-   "accepts": 38,
+   "accepts": 52,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2740,13 +2740,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:45.462Z",
-   "last": "2026-09-09T06:22:15.574Z"
+   "last": "2026-09-09T11:22:43.008Z"
   },
   {
    "did": "did:key:z6MkpGFWAJwRmUaX75q4zjaGUH54b8Fk93VPYmzJq7USDFvp",
    "did_short": "did:key:z6MkpGFW…DFvp",
-   "offers": 26,
-   "accepts": 4,
+   "offers": 29,
+   "accepts": 8,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2758,7 +2758,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:20.939Z",
-   "last": "2026-09-09T06:06:46.776Z"
+   "last": "2026-09-09T11:21:01.717Z"
   },
   {
    "did": "did:key:z6MkhVExGePt1zvndSD5bMo9gK43hDnyUZJyF1x9dR4N7zUv",
@@ -2781,7 +2781,7 @@
   {
    "did": "did:key:z6MkpbZ3BTUqrjPgRZLnGRSkk69f7Qu1edi8qTUNdSro7iDF",
    "did_short": "did:key:z6MkpbZ3…7iDF",
-   "offers": 111,
+   "offers": 130,
    "accepts": 0,
    "deals_claimed": 0,
    "as_payer": 0,
@@ -2794,13 +2794,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:51.360Z",
-   "last": "2026-09-09T06:24:17.045Z"
+   "last": "2026-09-09T11:21:57.193Z"
   },
   {
    "did": "did:key:z6Mkm1DB6gckjinvDnJtofU8uix27TGyypf8Hu22w46s3RPG",
    "did_short": "did:key:z6Mkm1DB…3RPG",
-   "offers": 30,
-   "accepts": 2,
+   "offers": 33,
+   "accepts": 4,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2812,7 +2812,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:53.704Z",
-   "last": "2026-09-09T06:21:43.734Z"
+   "last": "2026-09-09T11:20:50.757Z"
   },
   {
    "did": "did:key:z6MkgZEzZsL7doY2nriez7WhYnRuvHjw4FL3WoFZGjTNJvqa",
@@ -2835,6 +2835,42 @@
   {
    "did": "did:key:z6Mkn47NC7TmCKJ7xvQLNkgDwtYec4waiecDP7ZmX8Mt89ap",
    "did_short": "did:key:z6Mkn47N…89ap",
+   "offers": 34,
+   "accepts": 9,
+   "deals_claimed": 0,
+   "as_payer": 0,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 0,
+   "delivery_rate": null,
+   "score": 0,
+   "first": "2026-09-08T07:33:56.098Z",
+   "last": "2026-09-09T11:11:55.111Z"
+  },
+  {
+   "did": "did:key:z6Mkjd8AmTzWozhHuCk63n5Qs9fSoNEZvKbwfyZL5wTFNfZ8",
+   "did_short": "did:key:z6Mkjd8A…NfZ8",
+   "offers": 33,
+   "accepts": 4,
+   "deals_claimed": 0,
+   "as_payer": 0,
+   "as_payee": 0,
+   "refunded": 0,
+   "stranded_accepts": 0,
+   "cancelled": 0,
+   "malformed_frames": 0,
+   "counterparties": 0,
+   "delivery_rate": null,
+   "score": 0,
+   "first": "2026-09-08T07:33:58.641Z",
+   "last": "2026-09-09T11:15:19.367Z"
+  },
+  {
+   "did": "did:key:z6Mkr4r7kygYFfEdctsa1AmTnnmECrJJdLqV7ZVEf6yNuWfP",
+   "did_short": "did:key:z6Mkr4r7…uWfP",
    "offers": 31,
    "accepts": 6,
    "deals_claimed": 0,
@@ -2847,50 +2883,14 @@
    "counterparties": 0,
    "delivery_rate": null,
    "score": 0,
-   "first": "2026-09-08T07:33:56.098Z",
-   "last": "2026-09-09T06:20:27.901Z"
-  },
-  {
-   "did": "did:key:z6Mkjd8AmTzWozhHuCk63n5Qs9fSoNEZvKbwfyZL5wTFNfZ8",
-   "did_short": "did:key:z6Mkjd8A…NfZ8",
-   "offers": 29,
-   "accepts": 1,
-   "deals_claimed": 0,
-   "as_payer": 0,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 0,
-   "delivery_rate": null,
-   "score": 0,
-   "first": "2026-09-08T07:33:58.641Z",
-   "last": "2026-09-09T06:23:39.205Z"
-  },
-  {
-   "did": "did:key:z6Mkr4r7kygYFfEdctsa1AmTnnmECrJJdLqV7ZVEf6yNuWfP",
-   "did_short": "did:key:z6Mkr4r7…uWfP",
-   "offers": 28,
-   "accepts": 2,
-   "deals_claimed": 0,
-   "as_payer": 0,
-   "as_payee": 0,
-   "refunded": 0,
-   "stranded_accepts": 0,
-   "cancelled": 0,
-   "malformed_frames": 0,
-   "counterparties": 0,
-   "delivery_rate": null,
-   "score": 0,
    "first": "2026-09-08T07:33:58.918Z",
-   "last": "2026-09-09T06:16:02.197Z"
+   "last": "2026-09-09T11:15:19.312Z"
   },
   {
    "did": "did:key:z6MkvVdVYmDeK2PAEmWDaHp9rBKCH2KjXno7WpmSW23mUt6A",
    "did_short": "did:key:z6MkvVdV…Ut6A",
-   "offers": 26,
-   "accepts": 5,
+   "offers": 29,
+   "accepts": 9,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2902,13 +2902,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:03.989Z",
-   "last": "2026-09-09T06:17:10.552Z"
+   "last": "2026-09-09T11:19:36.628Z"
   },
   {
    "did": "did:key:z6MkotNMGswpBrFMJR5ufKYpbZkaKum4W6BfLqzhJEHkGiVf",
    "did_short": "did:key:z6MkotNM…GiVf",
-   "offers": 26,
-   "accepts": 6,
+   "offers": 29,
+   "accepts": 10,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2920,7 +2920,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:04.684Z",
-   "last": "2026-09-09T06:09:45.727Z"
+   "last": "2026-09-09T11:23:57.751Z"
   },
   {
    "did": "did:key:z6MkkmXUpQbMdi5XiVxGitiYi35hvWy83xWqKTqdYAoBspcj",
@@ -2943,8 +2943,8 @@
   {
    "did": "did:key:z6Mkv7xbCz6NE1hnN2jd9LCYnXe4w8pW7YxazLLAMnZJaS3P",
    "did_short": "did:key:z6Mkv7xb…aS3P",
-   "offers": 17,
-   "accepts": 89,
+   "offers": 20,
+   "accepts": 90,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2956,13 +2956,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:58.220Z",
-   "last": "2026-09-09T06:17:58.133Z"
+   "last": "2026-09-09T11:11:21.405Z"
   },
   {
    "did": "did:key:z6Mkie15446sRGunVDAty8fikuwUxU2YB8mkmgFdEmH35fUg",
    "did_short": "did:key:z6Mkie15…5fUg",
-   "offers": 27,
-   "accepts": 3,
+   "offers": 30,
+   "accepts": 9,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -2974,7 +2974,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:08.645Z",
-   "last": "2026-09-09T06:18:54.115Z"
+   "last": "2026-09-09T11:13:21.007Z"
   },
   {
    "did": "did:key:z6MkqD43CQrHiPCqmDiyaPU1eqWFJe15mLHjAkjutRmjvixF",
@@ -2997,8 +2997,8 @@
   {
    "did": "did:key:z6MkvLatuVjfCGu99n84VhW49cKjJS3yrZyNVZp7PkvYt7TD",
    "did_short": "did:key:z6MkvLat…t7TD",
-   "offers": 31,
-   "accepts": 3,
+   "offers": 34,
+   "accepts": 4,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3010,7 +3010,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:33:34.656Z",
-   "last": "2026-09-09T06:23:06.470Z"
+   "last": "2026-09-09T11:12:04.286Z"
   },
   {
    "did": "did:key:z6MkqLCxuYhtJKrxgfEatYgT8huraq6uaGxD65kZ5fUoVrmq",
@@ -3033,8 +3033,8 @@
   {
    "did": "did:key:z6MkesiQwjaCteEMoAB2gofKJ7Yuxw8733k9dqAbdq8jCWaG",
    "did_short": "did:key:z6MkesiQ…CWaG",
-   "offers": 29,
-   "accepts": 1,
+   "offers": 31,
+   "accepts": 7,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3046,13 +3046,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:13.002Z",
-   "last": "2026-09-09T06:02:07.272Z"
+   "last": "2026-09-09T11:22:40.551Z"
   },
   {
    "did": "did:key:z6MkeyAkApihG6rm4aiVfYBMvJJXHnGBHJLLTzYCk6CvBHuW",
    "did_short": "did:key:z6MkeyAk…BHuW",
-   "offers": 30,
-   "accepts": 6,
+   "offers": 34,
+   "accepts": 7,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3064,7 +3064,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:14.055Z",
-   "last": "2026-09-09T06:17:05.244Z"
+   "last": "2026-09-09T11:17:08.351Z"
   },
   {
    "did": "did:key:z6MkhfoGZ5TWkag4TLCWS7VqbZHWL7u9bGH46PKHkfHYpiiP",
@@ -3088,7 +3088,7 @@
    "did": "did:key:z6Mkhq9nrVTZq7hjDqSe44HN8vR4dGsvdokK94YEW3Qwhuae",
    "did_short": "did:key:z6Mkhq9n…huae",
    "offers": 4,
-   "accepts": 26,
+   "accepts": 40,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3100,13 +3100,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:15.383Z",
-   "last": "2026-09-09T06:22:25.826Z"
+   "last": "2026-09-09T11:23:12.137Z"
   },
   {
    "did": "did:key:z6Mkv72i3v3Kfv8WWxu7MxqoeDcjayfDnG8rh2VrGTDKEeLf",
    "did_short": "did:key:z6Mkv72i…EeLf",
-   "offers": 28,
-   "accepts": 4,
+   "offers": 31,
+   "accepts": 8,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3118,13 +3118,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:15.605Z",
-   "last": "2026-09-09T06:19:36.334Z"
+   "last": "2026-09-09T11:16:43.965Z"
   },
   {
    "did": "did:key:z6MkemRDsqbSMg4kFUJfN1aqGsMvWqXB8Y8uUUytuRDFEqMP",
    "did_short": "did:key:z6MkemRD…EqMP",
-   "offers": 28,
-   "accepts": 14,
+   "offers": 32,
+   "accepts": 18,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3136,7 +3136,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:15.676Z",
-   "last": "2026-09-09T06:17:36.894Z"
+   "last": "2026-09-09T11:16:43.871Z"
   },
   {
    "did": "did:key:z6MkpKAb3XK5qzeTqw8uF5uSPrZvZjDMngaLXkYbVxgN9h63",
@@ -3159,8 +3159,8 @@
   {
    "did": "did:key:z6Mkeaib3bufeL3pscnQ5ANzpU2VtA21CwB16MEHmFYNCjRT",
    "did_short": "did:key:z6Mkeaib…CjRT",
-   "offers": 27,
-   "accepts": 5,
+   "offers": 29,
+   "accepts": 8,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3172,13 +3172,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:16.518Z",
-   "last": "2026-09-09T06:24:03.381Z"
+   "last": "2026-09-09T11:21:03.835Z"
   },
   {
    "did": "did:key:z6Mkm3FKrMUxwpWt5u9ZicYUCzy7A8c9SNEnQSmpf7y8GkQ8",
    "did_short": "did:key:z6Mkm3FK…GkQ8",
-   "offers": 28,
-   "accepts": 2,
+   "offers": 31,
+   "accepts": 4,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3190,13 +3190,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:16.770Z",
-   "last": "2026-09-09T06:11:38.715Z"
+   "last": "2026-09-09T11:14:21.734Z"
   },
   {
    "did": "did:key:z6MkpTRa46RvsK6KV8muPPwTKNC2SXFjMCC6P1azwsZwEdXr",
    "did_short": "did:key:z6MkpTRa…EdXr",
-   "offers": 17,
-   "accepts": 65,
+   "offers": 21,
+   "accepts": 66,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3208,13 +3208,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:43.450Z",
-   "last": "2026-09-09T06:18:51.968Z"
+   "last": "2026-09-09T11:19:34.865Z"
   },
   {
    "did": "did:key:z6MkhJz8fdf3ETh1mPt6Kqznd4SgGzVUp3Uyst8QFeQT9hhW",
    "did_short": "did:key:z6MkhJz8…9hhW",
-   "offers": 27,
-   "accepts": 6,
+   "offers": 30,
+   "accepts": 10,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3226,13 +3226,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:18.226Z",
-   "last": "2026-09-09T06:18:52.655Z"
+   "last": "2026-09-09T11:21:01.873Z"
   },
   {
    "did": "did:key:z6MktsMCmaw12xvKNSqx5HTWzeQVtvCY7pQ5yCKRxkXmXBmv",
    "did_short": "did:key:z6MktsMC…XBmv",
-   "offers": 29,
-   "accepts": 1,
+   "offers": 32,
+   "accepts": 2,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3244,7 +3244,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:20.937Z",
-   "last": "2026-09-09T06:15:36.710Z"
+   "last": "2026-09-09T11:22:40.029Z"
   },
   {
    "did": "did:key:z6MkkWQs7e5kmFcQZmNidnVDoBTvDxoCjUe3ZoUPGpm2Ceke",
@@ -3267,8 +3267,8 @@
   {
    "did": "did:key:z6MkoVCtPgBf3tn2CCqJqLVvdfPH66Q5tAFeJrh2QxtstLZz",
    "did_short": "did:key:z6MkoVCt…tLZz",
-   "offers": 31,
-   "accepts": 6,
+   "offers": 34,
+   "accepts": 10,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3280,7 +3280,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:24.531Z",
-   "last": "2026-09-09T06:23:57.944Z"
+   "last": "2026-09-09T11:18:02.810Z"
   },
   {
    "did": "did:key:z6MkmFjmXNQdUQjiyScmt1bz25r98TcXYkaqsJAvpZ7LY2eA",
@@ -3303,8 +3303,8 @@
   {
    "did": "did:key:z6Mkn6ms7p9EP5BPojNmEnTmQcCZfr9RrDpbLaheWh6RM5eH",
    "did_short": "did:key:z6Mkn6ms…M5eH",
-   "offers": 30,
-   "accepts": 8,
+   "offers": 33,
+   "accepts": 12,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3316,13 +3316,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:26.270Z",
-   "last": "2026-09-09T06:13:16.168Z"
+   "last": "2026-09-09T11:21:01.709Z"
   },
   {
    "did": "did:key:z6MkhtzrMRcmrq9orVprUEP5EWKHSEcWMV74Pop45JCknfML",
    "did_short": "did:key:z6Mkhtzr…nfML",
-   "offers": 30,
-   "accepts": 7,
+   "offers": 33,
+   "accepts": 9,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3334,13 +3334,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:26.429Z",
-   "last": "2026-09-09T06:21:50.713Z"
+   "last": "2026-09-09T11:21:01.732Z"
   },
   {
    "did": "did:key:z6MkfmfwbkPfoeQkNDJnQKzvvdPh6HXFG9SiGjHk9r4Dr8GW",
    "did_short": "did:key:z6Mkfmfw…r8GW",
    "offers": 2,
-   "accepts": 46,
+   "accepts": 57,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3352,7 +3352,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:30.055Z",
-   "last": "2026-09-09T06:24:02.360Z"
+   "last": "2026-09-09T11:19:28.694Z"
   },
   {
    "did": "did:key:z6MkpXsUsysRC62aAYLtThC5M9BLQSEA4W3r4BETqDLcPugq",
@@ -3375,8 +3375,8 @@
   {
    "did": "did:key:z6MknA7Ygf6qQdF15yxqKYQWgubshLiD5QfiP5KNhbdvNGmy",
    "did_short": "did:key:z6MknA7Y…NGmy",
-   "offers": 26,
-   "accepts": 10,
+   "offers": 30,
+   "accepts": 15,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3388,13 +3388,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:32.365Z",
-   "last": "2026-09-09T06:12:10.125Z"
+   "last": "2026-09-09T11:20:02.839Z"
   },
   {
    "did": "did:key:z6MkjGmoMJMnD7kQkBi2BvujctfAyHFbKUx2pt8JstAN1hun",
    "did_short": "did:key:z6MkjGmo…1hun",
-   "offers": 20,
-   "accepts": 193,
+   "offers": 24,
+   "accepts": 237,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3406,7 +3406,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:41.152Z",
-   "last": "2026-09-09T06:24:21.675Z"
+   "last": "2026-09-09T11:23:03.487Z"
   },
   {
    "did": "did:key:z6MkrHWXZ84vYHzW88iBqHfcDchmEM6y18KVpCNFFsT1KmHJ",
@@ -3430,7 +3430,7 @@
    "did": "did:key:z6MkwLUCnXjMhAD7CXhMJJVLNo5QDSNAcdboczJ4q9nD9NXt",
    "did_short": "did:key:z6MkwLUC…9NXt",
    "offers": 4,
-   "accepts": 44,
+   "accepts": 58,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3442,7 +3442,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:40.334Z",
-   "last": "2026-09-09T06:11:14.018Z"
+   "last": "2026-09-09T11:22:05.294Z"
   },
   {
    "did": "did:key:z6MkwUfnRkKqWPsjCgJHdJsxUSQ1Y8honm1V2XLAzhQ4z27y",
@@ -3465,8 +3465,8 @@
   {
    "did": "did:key:z6Mkf8PQPrpxF358oatmQQct9zxvhTrzePMW7XRfgMXAA4ym",
    "did_short": "did:key:z6Mkf8PQ…A4ym",
-   "offers": 26,
-   "accepts": 5,
+   "offers": 30,
+   "accepts": 9,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3478,13 +3478,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:40.829Z",
-   "last": "2026-09-09T06:14:38.215Z"
+   "last": "2026-09-09T11:21:37.923Z"
   },
   {
    "did": "did:key:z6Mkigh3tDgJa13uU1WUdG6vc8Uzu4nU3iL6c5NpM27n1dxg",
    "did_short": "did:key:z6Mkigh3…1dxg",
    "offers": 6,
-   "accepts": 35,
+   "accepts": 42,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3496,13 +3496,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:41.084Z",
-   "last": "2026-09-09T06:23:01.001Z"
+   "last": "2026-09-09T11:21:43.242Z"
   },
   {
    "did": "did:key:z6Mkv7PiWq1xteCP7okmhpFx48mRmCUhWCfKTB5mTftkVwKd",
    "did_short": "did:key:z6Mkv7Pi…VwKd",
-   "offers": 26,
-   "accepts": 2,
+   "offers": 29,
+   "accepts": 4,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3514,7 +3514,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:42.518Z",
-   "last": "2026-09-09T06:19:28.386Z"
+   "last": "2026-09-09T11:21:53.285Z"
   },
   {
    "did": "did:key:z6MkrAiSAaEzh2LFsF6qzd4nzAEzaqrC5VSsdkmPms71oYAY",
@@ -3537,8 +3537,8 @@
   {
    "did": "did:key:z6MktXCbJTrjEXzfqarpQDqLtrxmoMcPYVmY38qKELFuKDCZ",
    "did_short": "did:key:z6MktXCb…KDCZ",
-   "offers": 29,
-   "accepts": 6,
+   "offers": 31,
+   "accepts": 8,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3550,12 +3550,12 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:45.209Z",
-   "last": "2026-09-09T06:18:11.227Z"
+   "last": "2026-09-09T11:13:51.449Z"
   },
   {
    "did": "did:key:z6Mkr4h8LnfPLJHn1Pkrbbdh3zdvYraLAJgtRvNroPkhcbMA",
    "did_short": "did:key:z6Mkr4h8…cbMA",
-   "offers": 15,
+   "offers": 18,
    "accepts": 79,
    "deals_claimed": 0,
    "as_payer": 0,
@@ -3568,13 +3568,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:46.518Z",
-   "last": "2026-09-09T06:10:26.572Z"
+   "last": "2026-09-09T11:18:11.564Z"
   },
   {
    "did": "did:key:z6Mks8E4BR13fCroGKwVgtEVS4vWgRhVvveNLfswNNZSsdCS",
    "did_short": "did:key:z6Mks8E4…sdCS",
-   "offers": 15,
-   "accepts": 75,
+   "offers": 18,
+   "accepts": 76,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3586,13 +3586,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:39.542Z",
-   "last": "2026-09-09T06:10:56.613Z"
+   "last": "2026-09-09T11:16:09.068Z"
   },
   {
    "did": "did:key:z6Mkp9iGPiPD4pKZak42dtn8T1kA1YK8rMAbphaX9M837C5D",
    "did_short": "did:key:z6Mkp9iG…7C5D",
-   "offers": 32,
-   "accepts": 3,
+   "offers": 34,
+   "accepts": 7,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3604,13 +3604,13 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:34:49.032Z",
-   "last": "2026-09-09T06:19:10.165Z"
+   "last": "2026-09-09T11:18:08.050Z"
   },
   {
    "did": "did:key:z6MkwZyx2mH8ZiMqjoNp8fG9DvvAHzDrkJ7nfibT1ioLWeTY",
    "did_short": "did:key:z6MkwZyx…WeTY",
-   "offers": 18,
-   "accepts": 86,
+   "offers": 22,
+   "accepts": 90,
    "deals_claimed": 0,
    "as_payer": 0,
    "as_payee": 0,
@@ -3622,7 +3622,7 @@
    "delivery_rate": null,
    "score": 0,
    "first": "2026-09-08T07:32:49.192Z",
-   "last": "2026-09-09T06:13:40.274Z"
+   "last": "2026-09-09T11:12:59.239Z"
   }
  ],
  "contracts": [
